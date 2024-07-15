@@ -1,0 +1,1309 @@
+﻿Quadrant,id,staff_id,staff_name,gartner_index,gartner_title,innovation_tech_name,feasibility_level
+Data Governance,527,26128,仲元珩,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Decision Intelligence,5
+Data Governance,527,26128,仲元珩,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Digital Ethics,4
+Data Governance,527,26128,仲元珩,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Generative AI,5
+Data Governance,527,26128,仲元珩,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Hyperautomation,4
+Data Governance,527,26128,仲元珩,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Information Architecture,3
+Data Governance,527,26128,仲元珩,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Machine Learning,5
+Data Governance,527,26128,仲元珩,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Master Data Management,5
+Data Governance,527,26128,仲元珩,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Multistructured Analytics,4
+Data Governance,527,26128,仲元珩,G00792590,"Hype Cycle for Data Management, 2023",Augmented Data Catalog/Metadata Management,5
+Data Governance,527,26128,仲元珩,G00792590,"Hype Cycle for Data Management, 2023",Augmented Data Management,5
+Data Governance,527,26128,仲元珩,G00792590,"Hype Cycle for Data Management, 2023",Augmented Data Quality,5
+Data Governance,527,26128,仲元珩,G00792590,"Hype Cycle for Data Management, 2023",Data Classification,5
+Data Governance,527,26128,仲元珩,G00792590,"Hype Cycle for Data Management, 2023",Data Engineering,4
+Data Governance,527,26128,仲元珩,G00792590,"Hype Cycle for Data Management, 2023",Data Hub Strategy,3
+Data Governance,527,26128,仲元珩,G00792590,"Hype Cycle for Data Management, 2023",Data Observability,5
+Data Governance,527,26128,仲元珩,G00792590,"Hype Cycle for Data Management, 2023",Data Product,3
+Data Governance,527,26128,仲元珩,G00792590,"Hype Cycle for Data Management, 2023",DataOps,5
+Data Governance,527,26128,仲元珩,G00792590,"Hype Cycle for Data Management, 2023",Edge Data Management,4
+Data Governance,527,26128,仲元珩,G00792590,"Hype Cycle for Data Management, 2023",Event Stream Processing,3
+Data Governance,527,26128,仲元珩,G00792590,"Hype Cycle for Data Management, 2023",Graph DBMS,2
+Data Governance,527,26128,仲元珩,G00792590,"Hype Cycle for Data Management, 2023",In-DBMS Analytics,2
+Data Governance,527,26128,仲元珩,G00792590,"Hype Cycle for Data Management, 2023",Knowledge Graphs,2
+Data Governance,527,26128,仲元珩,G00792590,"Hype Cycle for Data Management, 2023",Lakehouse,3
+Data Governance,527,26128,仲元珩,G00792590,"Hype Cycle for Data Management, 2023",Master Data Management,5
+Data Governance,527,26128,仲元珩,G00792590,"Hype Cycle for Data Management, 2023",Operational Intelligence,5
+Data Governance,527,26128,仲元珩,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Citizen Data Science,4
+Data Governance,527,26128,仲元珩,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Data Asset Management,5
+Data Governance,527,26128,仲元珩,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Data Classification,5
+Data Governance,527,26128,仲元珩,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Data Governance,5
+Data Governance,527,26128,仲元珩,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",DataOps,5
+Data Governance,527,26128,仲元珩,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Data Literacy,5
+Data Governance,527,26128,仲元珩,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Data Storytelling,4
+Data Governance,527,26128,仲元珩,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Data Marketplaces and Exchanges,3
+Data Governance,527,26128,仲元珩,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",AI Governance,5
+Data Governance,527,26128,仲元珩,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Augmented Data Catalog/Metadata Management,5
+Data Governance,527,26128,仲元珩,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Augmented Data Quality,5
+Data Governance,527,26128,仲元珩,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Cloud MDM,4
+Data Governance,527,26128,仲元珩,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Customer MDM,4
+Data Governance,527,26128,仲元珩,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",D&A Stewardship,5
+Data Governance,527,26128,仲元珩,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Data and Analytics Governance,5
+Data Governance,527,26128,仲元珩,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Data Hub Strategy,3
+Data Governance,527,26128,仲元珩,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Data Literacy,4
+Data Governance,527,26128,仲元珩,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Data Observability,5
+Data Governance,527,26128,仲元珩,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Digital Ethics,3
+Data Governance,527,26128,仲元珩,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Master Data Management,5
+Data Governance,527,26128,仲元珩,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Multidomain MDM Solutions,5
+Data Governance,527,26128,仲元珩,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Product Data MDM,4
+Data Governance,527,26128,仲元珩,G00792194,"Hype Cycle for Data Security, 2023",Augmented Data Catalog/Metadata Management,4
+Data Governance,527,26128,仲元珩,G00792194,"Hype Cycle for Data Security, 2023",Data Breach Response,5
+Data Governance,527,26128,仲元珩,G00792194,"Hype Cycle for Data Security, 2023",Data Classification,5
+Data Governance,527,26128,仲元珩,G00792194,"Hype Cycle for Data Security, 2023",Digital Communications Governance,4
+Data Governance,527,26128,仲元珩,G00792194,"Hype Cycle for Data Security, 2023",Machine Identity Management,3
+Data Governance,527,26128,仲元珩,G00792194,"Hype Cycle for Data Security, 2023",Postquantum Cryptography,3
+Data Governance,527,26128,仲元珩,G00792194,"Hype Cycle for Data Security, 2023",Privacy Impact Assessments,4
+Data Governance,527,26128,仲元珩,G00792194,"Hype Cycle for Data Security, 2023",Privacy Management Tools,3
+Data Governance,527,26128,仲元珩,G00792194,"Hype Cycle for Data Security, 2023",Security Service Edge,3
+Data Governance,527,26128,仲元珩,G00792194,"Hype Cycle for Data Security, 2023",Synthetic Data,2
+Data Governance,527,26128,仲元珩,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",AI for Sustainability,5
+Data Governance,527,26128,仲元珩,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",D&A Stewardship,5
+Data Governance,527,26128,仲元珩,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Data Engineering,4
+Data Governance,527,26128,仲元珩,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Data Hub Strategy,4
+Data Governance,527,26128,仲元珩,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Data Literacy,5
+Data Governance,527,26128,仲元珩,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Data Observability,5
+Data Governance,527,26128,仲元珩,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Data Sharing,5
+Data Governance,527,26128,仲元珩,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Digital Ethics,4
+Data Governance,527,26128,仲元珩,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Decision Intelligence,5
+Data Governance,527,26128,仲元珩,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Generative AI,5
+Data Governance,527,26128,仲元珩,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Homegrown AI Chips,3
+Data Governance,527,26128,仲元珩,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Real-Time Data Management,3
+Data Governance,529,25185,蔡秉文,G00792194,"Hype Cycle for Data Security, 2023",Augmented Data Catalog/Metadata Management,5
+Data Governance,529,25185,蔡秉文,G00792194,"Hype Cycle for Data Security, 2023",Synthetic Data,3
+Data Governance,529,25185,蔡秉文,G00792194,"Hype Cycle for Data Security, 2023",Security Service Edge,2
+Data Governance,529,25185,蔡秉文,G00792194,"Hype Cycle for Data Security, 2023",Privacy Management Tools,4
+Data Governance,529,25185,蔡秉文,G00792194,"Hype Cycle for Data Security, 2023",Privacy Impact Assessments,3
+Data Governance,529,25185,蔡秉文,G00792194,"Hype Cycle for Data Security, 2023",Postquantum Cryptography,2
+Data Governance,529,25185,蔡秉文,G00792194,"Hype Cycle for Data Security, 2023",Machine Identity Management,3
+Data Governance,529,25185,蔡秉文,G00792194,"Hype Cycle for Data Security, 2023",Digital Communications Governance,3
+Data Governance,529,25185,蔡秉文,G00792194,"Hype Cycle for Data Security, 2023",Data Classification,4
+Data Governance,529,25185,蔡秉文,G00792194,"Hype Cycle for Data Security, 2023",Data Breach Response,3
+Data Governance,529,25185,蔡秉文,G00792590,"Hype Cycle for Data Management, 2023",Augmented Data Management,5
+Data Governance,529,25185,蔡秉文,G00792590,"Hype Cycle for Data Management, 2023",Augmented Data Catalog/Metadata Management,5
+Data Governance,529,25185,蔡秉文,G00792590,"Hype Cycle for Data Management, 2023",Augmented Data Quality,5
+Data Governance,529,25185,蔡秉文,G00792590,"Hype Cycle for Data Management, 2023",Data Classification,5
+Data Governance,529,25185,蔡秉文,G00792590,"Hype Cycle for Data Management, 2023",Data Hub Strategy,5
+Data Governance,529,25185,蔡秉文,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Real-Time Data Management,4
+Data Governance,529,25185,蔡秉文,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Homegrown AI Chips,3
+Data Governance,529,25185,蔡秉文,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Generative AI,5
+Data Governance,529,25185,蔡秉文,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Digital Ethics,4
+Data Governance,529,25185,蔡秉文,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Decision Intelligence,5
+Data Governance,529,25185,蔡秉文,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Data Sharing,5
+Data Governance,529,25185,蔡秉文,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Data Literacy,5
+Data Governance,529,25185,蔡秉文,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Data Governance,5
+Data Governance,529,25185,蔡秉文,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Data Classification,5
+Data Governance,529,25185,蔡秉文,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Data Asset Management,5
+Data Governance,529,25185,蔡秉文,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Citizen Data Science,3
+Data Governance,529,25185,蔡秉文,G00792590,"Hype Cycle for Data Management, 2023",Operational Intelligence,5
+Data Governance,529,25185,蔡秉文,G00792590,"Hype Cycle for Data Management, 2023",Master Data Management,5
+Data Governance,529,25185,蔡秉文,G00792590,"Hype Cycle for Data Management, 2023",Lakehouse,4
+Data Governance,529,25185,蔡秉文,G00792590,"Hype Cycle for Data Management, 2023",Knowledge Graphs,5
+Data Governance,529,25185,蔡秉文,G00792590,"Hype Cycle for Data Management, 2023",In-DBMS Analytics,3
+Data Governance,529,25185,蔡秉文,G00792590,"Hype Cycle for Data Management, 2023",Graph DBMS,3
+Data Governance,529,25185,蔡秉文,G00792590,"Hype Cycle for Data Management, 2023",Event Stream Processing,4
+Data Governance,529,25185,蔡秉文,G00792590,"Hype Cycle for Data Management, 2023",Edge Data Management,5
+Data Governance,529,25185,蔡秉文,G00792590,"Hype Cycle for Data Management, 2023",DataOps,5
+Data Governance,529,25185,蔡秉文,G00792590,"Hype Cycle for Data Management, 2023",Data Product,5
+Data Governance,529,25185,蔡秉文,G00792590,"Hype Cycle for Data Management, 2023",Data Observability,5
+Data Governance,529,25185,蔡秉文,G00792590,"Hype Cycle for Data Management, 2023",Data Engineering,5
+Data Governance,529,25185,蔡秉文,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Customer MDM,5
+Data Governance,529,25185,蔡秉文,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Cloud MDM,5
+Data Governance,529,25185,蔡秉文,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Augmented Data Quality,5
+Data Governance,529,25185,蔡秉文,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Augmented Data Catalog/Metadata Management,5
+Data Governance,529,25185,蔡秉文,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",AI Governance,5
+Data Governance,529,25185,蔡秉文,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",D&A Stewardship,5
+Data Governance,529,25185,蔡秉文,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Data and Analytics Governance,5
+Data Governance,529,25185,蔡秉文,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Data Literacy,5
+Data Governance,529,25185,蔡秉文,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Multistructured Analytics,3
+Data Governance,529,25185,蔡秉文,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Master Data Management,5
+Data Governance,529,25185,蔡秉文,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Machine Learning,3
+Data Governance,529,25185,蔡秉文,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Information Architecture,4
+Data Governance,529,25185,蔡秉文,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Hyperautomation,5
+Data Governance,529,25185,蔡秉文,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Generative AI,5
+Data Governance,529,25185,蔡秉文,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Data Hub Strategy,5
+Data Governance,529,25185,蔡秉文,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Decision Intelligence,5
+Data Governance,529,25185,蔡秉文,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",DataOps,3
+Data Governance,529,25185,蔡秉文,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Data Storytelling,4
+Data Governance,529,25185,蔡秉文,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Digital Ethics,4
+Data Governance,529,25185,蔡秉文,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Data Marketplaces and Exchanges,5
+Data Governance,529,25185,蔡秉文,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Data Literacy,5
+Data Governance,529,25185,蔡秉文,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Data Hub Strategy,5
+Data Governance,529,25185,蔡秉文,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Data Engineering,3
+Data Governance,529,25185,蔡秉文,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",D&A Stewardship,5
+Data Governance,529,25185,蔡秉文,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",AI for Sustainability,5
+Data Governance,529,25185,蔡秉文,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Product Data MDM,5
+Data Governance,529,25185,蔡秉文,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Multidomain MDM Solutions,5
+Data Governance,529,25185,蔡秉文,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Master Data Management,5
+Data Governance,529,25185,蔡秉文,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Data Observability,5
+Data Governance,529,25185,蔡秉文,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Digital Ethics,4
+Data Governance,529,25185,蔡秉文,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Data Observability,5
+Data Governance,530,26046,林志育,G00792194,"Hype Cycle for Data Security, 2023",Security Service Edge,4
+Data Governance,530,26046,林志育,G00792194,"Hype Cycle for Data Security, 2023",Synthetic Data,4
+Data Governance,530,26046,林志育,G00792194,"Hype Cycle for Data Security, 2023",Privacy Management Tools,3
+Data Governance,530,26046,林志育,G00792194,"Hype Cycle for Data Security, 2023",Privacy Impact Assessments,4
+Data Governance,530,26046,林志育,G00792194,"Hype Cycle for Data Security, 2023",Postquantum Cryptography,2
+Data Governance,530,26046,林志育,G00792194,"Hype Cycle for Data Security, 2023",Machine Identity Management,5
+Data Governance,530,26046,林志育,G00792194,"Hype Cycle for Data Security, 2023",Digital Communications Governance,4
+Data Governance,530,26046,林志育,G00792194,"Hype Cycle for Data Security, 2023",Data Classification,4
+Data Governance,530,26046,林志育,G00792194,"Hype Cycle for Data Security, 2023",Data Breach Response,4
+Data Governance,530,26046,林志育,G00792194,"Hype Cycle for Data Security, 2023",Augmented Data Catalog/Metadata Management,4
+Data Governance,530,26046,林志育,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Citizen Data Science,4
+Data Governance,530,26046,林志育,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Multistructured Analytics,4
+Data Governance,530,26046,林志育,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Machine Learning,5
+Data Governance,530,26046,林志育,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Information Architecture,5
+Data Governance,530,26046,林志育,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Hyperautomation,5
+Data Governance,530,26046,林志育,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Generative AI,4
+Data Governance,530,26046,林志育,G00792590,"Hype Cycle for Data Management, 2023",Operational Intelligence,4
+Data Governance,530,26046,林志育,G00792590,"Hype Cycle for Data Management, 2023",Master Data Management,4
+Data Governance,530,26046,林志育,G00792590,"Hype Cycle for Data Management, 2023",Lakehouse,4
+Data Governance,530,26046,林志育,G00792590,"Hype Cycle for Data Management, 2023",Knowledge Graphs,4
+Data Governance,530,26046,林志育,G00792590,"Hype Cycle for Data Management, 2023",In-DBMS Analytics,4
+Data Governance,530,26046,林志育,G00792590,"Hype Cycle for Data Management, 2023",Graph DBMS,4
+Data Governance,530,26046,林志育,G00792590,"Hype Cycle for Data Management, 2023",Event Stream Processing,4
+Data Governance,530,26046,林志育,G00792590,"Hype Cycle for Data Management, 2023",Edge Data Management,4
+Data Governance,530,26046,林志育,G00792590,"Hype Cycle for Data Management, 2023",DataOps,4
+Data Governance,530,26046,林志育,G00792590,"Hype Cycle for Data Management, 2023",Data Product,4
+Data Governance,530,26046,林志育,G00792590,"Hype Cycle for Data Management, 2023",Data Observability,4
+Data Governance,530,26046,林志育,G00792590,"Hype Cycle for Data Management, 2023",Data Engineering,4
+Data Governance,530,26046,林志育,G00792590,"Hype Cycle for Data Management, 2023",Data Classification,4
+Data Governance,530,26046,林志育,G00792590,"Hype Cycle for Data Management, 2023",Augmented Data Quality,4
+Data Governance,530,26046,林志育,G00792590,"Hype Cycle for Data Management, 2023",Augmented Data Management,4
+Data Governance,530,26046,林志育,G00792590,"Hype Cycle for Data Management, 2023",Augmented Data Catalog/Metadata Management,4
+Data Governance,530,26046,林志育,G00792590,"Hype Cycle for Data Management, 2023",Data Hub Strategy,4
+Data Governance,530,26046,林志育,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Digital Ethics,4
+Data Governance,530,26046,林志育,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Master Data Management,4
+Data Governance,530,26046,林志育,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",DataOps,4
+Data Governance,530,26046,林志育,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Data Literacy,4
+Data Governance,530,26046,林志育,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Data Governance,4
+Data Governance,530,26046,林志育,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Data Classification,4
+Data Governance,530,26046,林志育,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Decision Intelligence,4
+Data Governance,530,26046,林志育,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Data Sharing,4
+Data Governance,530,26046,林志育,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Decision Intelligence,4
+Data Governance,530,26046,林志育,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Data Asset Management,4
+Data Governance,530,26046,林志育,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Generative AI,4
+Data Governance,530,26046,林志育,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Data Storytelling,4
+Data Governance,530,26046,林志育,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Data Observability,4
+Data Governance,530,26046,林志育,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Data Marketplaces and Exchanges,4
+Data Governance,530,26046,林志育,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Data Literacy,4
+Data Governance,530,26046,林志育,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Data Hub Strategy,4
+Data Governance,530,26046,林志育,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Digital Ethics,4
+Data Governance,530,26046,林志育,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",AI for Sustainability,4
+Data Governance,530,26046,林志育,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Product Data MDM,4
+Data Governance,530,26046,林志育,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Multidomain MDM Solutions,4
+Data Governance,530,26046,林志育,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Master Data Management,4
+Data Governance,530,26046,林志育,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Digital Ethics,4
+Data Governance,530,26046,林志育,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",D&A Stewardship,4
+Data Governance,530,26046,林志育,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Data Literacy,4
+Data Governance,530,26046,林志育,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Data Observability,4
+Data Governance,530,26046,林志育,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Homegrown AI Chips,4
+Data Governance,530,26046,林志育,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Real-Time Data Management,4
+Data Governance,530,26046,林志育,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",AI Governance,4
+Data Governance,530,26046,林志育,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Augmented Data Catalog/Metadata Management,4
+Data Governance,530,26046,林志育,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Data Engineering,4
+Data Governance,530,26046,林志育,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Cloud MDM,4
+Data Governance,530,26046,林志育,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Customer MDM,4
+Data Governance,530,26046,林志育,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",D&A Stewardship,4
+Data Governance,530,26046,林志育,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Data and Analytics Governance,4
+Data Governance,530,26046,林志育,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Data Hub Strategy,4
+Data Governance,530,26046,林志育,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Augmented Data Quality,4
+Data Governance,535,17008,徐國雄,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Data Storytelling,4
+Data Governance,535,17008,徐國雄,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Data Observability,4
+Data Governance,535,17008,徐國雄,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Data Marketplaces and Exchanges,4
+Data Governance,535,17008,徐國雄,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Data Literacy,4
+Data Governance,535,17008,徐國雄,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Data Hub Strategy,4
+Data Governance,535,17008,徐國雄,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Data Engineering,4
+Data Governance,535,17008,徐國雄,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",D&A Stewardship,4
+Data Governance,535,17008,徐國雄,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",AI for Sustainability,4
+Data Governance,535,17008,徐國雄,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Product Data MDM,4
+Data Governance,535,17008,徐國雄,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Multidomain MDM Solutions,4
+Data Governance,535,17008,徐國雄,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Master Data Management,4
+Data Governance,535,17008,徐國雄,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Digital Ethics,2
+Data Governance,535,17008,徐國雄,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Data Observability,4
+Data Governance,535,17008,徐國雄,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Data Literacy,4
+Data Governance,535,17008,徐國雄,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Data Hub Strategy,2
+Data Governance,535,17008,徐國雄,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Data and Analytics Governance,4
+Data Governance,535,17008,徐國雄,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",D&A Stewardship,4
+Data Governance,535,17008,徐國雄,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Customer MDM,4
+Data Governance,535,17008,徐國雄,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Cloud MDM,2
+Data Governance,535,17008,徐國雄,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Augmented Data Quality,4
+Data Governance,535,17008,徐國雄,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",Augmented Data Catalog/Metadata Management,5
+Data Governance,535,17008,徐國雄,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",DataOps,4
+Data Governance,535,17008,徐國雄,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Decision Intelligence,5
+Data Governance,535,17008,徐國雄,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Digital Ethics,2
+Data Governance,535,17008,徐國雄,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Generative AI,5
+Data Governance,535,17008,徐國雄,G00792590,"Hype Cycle for Data Management, 2023",Operational Intelligence,4
+Data Governance,535,17008,徐國雄,G00792590,"Hype Cycle for Data Management, 2023",Master Data Management,4
+Data Governance,535,17008,徐國雄,G00792590,"Hype Cycle for Data Management, 2023",Lakehouse,4
+Data Governance,535,17008,徐國雄,G00792590,"Hype Cycle for Data Management, 2023",Knowledge Graphs,4
+Data Governance,535,17008,徐國雄,G00792590,"Hype Cycle for Data Management, 2023",In-DBMS Analytics,4
+Data Governance,535,17008,徐國雄,G00792590,"Hype Cycle for Data Management, 2023",Graph DBMS,2
+Data Governance,535,17008,徐國雄,G00792590,"Hype Cycle for Data Management, 2023",Event Stream Processing,4
+Data Governance,535,17008,徐國雄,G00792590,"Hype Cycle for Data Management, 2023",DataOps,4
+Data Governance,535,17008,徐國雄,G00792590,"Hype Cycle for Data Management, 2023",Data Product,4
+Data Governance,535,17008,徐國雄,G00791668,"Hype Cycle for Data and Analytics Governance, 2023",AI Governance,5
+Data Governance,535,17008,徐國雄,G00792590,"Hype Cycle for Data Management, 2023",Data Observability,4
+Data Governance,535,17008,徐國雄,G00792590,"Hype Cycle for Data Management, 2023",Data Engineering,4
+Data Governance,535,17008,徐國雄,G00792590,"Hype Cycle for Data Management, 2023",Data Classification,4
+Data Governance,535,17008,徐國雄,G00792590,"Hype Cycle for Data Management, 2023",Augmented Data Quality,4
+Data Governance,535,17008,徐國雄,G00792590,"Hype Cycle for Data Management, 2023",Augmented Data Management,4
+Data Governance,535,17008,徐國雄,G00792590,"Hype Cycle for Data Management, 2023",Augmented Data Catalog/Metadata Management,4
+Data Governance,535,17008,徐國雄,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Multistructured Analytics,4
+Data Governance,535,17008,徐國雄,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Master Data Management,4
+Data Governance,535,17008,徐國雄,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Machine Learning,5
+Data Governance,535,17008,徐國雄,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Information Architecture,4
+Data Governance,535,17008,徐國雄,G00792543,"Hype Cycle for Data and Analytics Programs and Practices, 2023",Hyperautomation,4
+Data Governance,535,17008,徐國雄,G00792590,"Hype Cycle for Data Management, 2023",Data Hub Strategy,4
+Data Governance,535,17008,徐國雄,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Real-Time Data Management,4
+Data Governance,535,17008,徐國雄,G00792590,"Hype Cycle for Data Management, 2023",Edge Data Management,4
+Data Governance,535,17008,徐國雄,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Generative AI,5
+Data Governance,535,17008,徐國雄,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Homegrown AI Chips,4
+Data Governance,535,17008,徐國雄,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Digital Ethics,2
+Data Governance,535,17008,徐國雄,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Decision Intelligence,5
+Data Governance,535,17008,徐國雄,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Data Literacy,5
+Data Governance,535,17008,徐國雄,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Data Governance,5
+Data Governance,535,17008,徐國雄,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Data Classification,4
+Data Governance,535,17008,徐國雄,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Data Asset Management,4
+Data Governance,535,17008,徐國雄,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Citizen Data Science,1
+Data Governance,535,17008,徐國雄,G00792194,"Hype Cycle for Data Security, 2023",Synthetic Data,4
+Data Governance,535,17008,徐國雄,G00792194,"Hype Cycle for Data Security, 2023",Security Service Edge,4
+Data Governance,535,17008,徐國雄,G00792194,"Hype Cycle for Data Security, 2023",Privacy Management Tools,4
+Data Governance,535,17008,徐國雄,G00760832,"Hype Cycle for Data, Analytics and AI in China, 2023",Data Sharing,5
+Data Governance,535,17008,徐國雄,G00792194,"Hype Cycle for Data Security, 2023",Postquantum Cryptography,2
+Data Governance,535,17008,徐國雄,G00792194,"Hype Cycle for Data Security, 2023",Privacy Impact Assessments,4
+Data Governance,535,17008,徐國雄,G00792194,"Hype Cycle for Data Security, 2023",Augmented Data Catalog/Metadata Management,4
+Data Governance,535,17008,徐國雄,G00792194,"Hype Cycle for Data Security, 2023",Data Classification,5
+Data Governance,535,17008,徐國雄,G00792194,"Hype Cycle for Data Security, 2023",Digital Communications Governance,1
+Data Governance,535,17008,徐國雄,G00792194,"Hype Cycle for Data Security, 2023",Machine Identity Management,4
+Data Governance,535,17008,徐國雄,G00792194,"Hype Cycle for Data Security, 2023",Data Breach Response,4
+EAM,527,26128,仲元珩,G00791195,"Hype Cycle for Operating Models, 2023",Product-Centric Delivery Model,4
+EAM,527,26128,仲元珩,G00791195,"Hype Cycle for Operating Models, 2023",Platform Engineering,5
+EAM,527,26128,仲元珩,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Container-Native Storage,4
+EAM,527,26128,仲元珩,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Digital Communications Governance,3
+EAM,527,26128,仲元珩,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Distributed File Systems,3
+EAM,527,26128,仲元珩,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Hybrid Cloud Storage,4
+EAM,527,26128,仲元珩,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Hyperconvergence,3
+EAM,527,26128,仲元珩,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Immutable Data Vault,3
+EAM,527,26128,仲元珩,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Object Storage,3
+EAM,527,26128,仲元珩,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Storage as a Service,3
+EAM,527,26128,仲元珩,G00791195,"Hype Cycle for Operating Models, 2023",Cloud Center of Excellence,5
+EAM,527,26128,仲元珩,G00791195,"Hype Cycle for Operating Models, 2023",Cloud Resilience,4
+EAM,527,26128,仲元珩,G00791195,"Hype Cycle for Operating Models, 2023",Cloud Sustainability,5
+EAM,527,26128,仲元珩,G00791195,"Hype Cycle for Operating Models, 2023",DataOps,5
+EAM,527,26128,仲元珩,G00791195,"Hype Cycle for Operating Models, 2023",DevSecOps,5
+EAM,527,26128,仲元珩,G00791195,"Hype Cycle for Operating Models, 2023",FinOps,4
+EAM,527,26128,仲元珩,G00791195,"Hype Cycle for Operating Models, 2023",GitOps,5
+EAM,527,26128,仲元珩,G00791195,"Hype Cycle for Operating Models, 2023",Infrastructure Automation,5
+EAM,527,26128,仲元珩,G00791195,"Hype Cycle for Operating Models, 2023",Infrastructure Orchestration,5
+EAM,527,26128,仲元珩,G00791195,"Hype Cycle for Operating Models, 2023",NetDevOps,4
+EAM,527,26128,仲元珩,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Software-Defined Storage,3
+EAM,527,26128,仲元珩,G00748304,"Hype Cycle for Supply Chain Planning Technologies, 2023",Decision Intelligence,5
+EAM,527,26128,仲元珩,G00748304,"Hype Cycle for Supply Chain Planning Technologies, 2023",Integrated Supply Chain Planning,3
+EAM,527,26128,仲元珩,G00748304,"Hype Cycle for Supply Chain Planning Technologies, 2023",Network Design,3
+EAM,527,26128,仲元珩,G00748304,"Hype Cycle for Supply Chain Planning Technologies, 2023",Short-Term Demand Sensing,3
+EAM,527,26128,仲元珩,G00748304,"Hype Cycle for Supply Chain Planning Technologies, 2023",Supply Chain Control Tower,3
+EAM,527,26128,仲元珩,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Business Capability Modeling,5
+EAM,527,26128,仲元珩,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Business Ecosystem Modeling,5
+EAM,527,26128,仲元珩,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Composable Applications,4
+EAM,527,26128,仲元珩,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Continuous Delivery,5
+EAM,527,26128,仲元珩,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Decision Intelligence,5
+EAM,527,26128,仲元珩,G00748304,"Hype Cycle for Supply Chain Planning Technologies, 2023",Optimize Planning,3
+EAM,527,26128,仲元珩,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Digital Twin,4
+EAM,527,26128,仲元珩,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Value Stream Mapping,4
+EAM,527,26128,仲元珩,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Digital Design,3
+EAM,527,26128,仲元珩,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Trendspotting,3
+EAM,527,26128,仲元珩,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Total Experience,4
+EAM,527,26128,仲元珩,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Roadmapping,4
+EAM,527,26128,仲元珩,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Machine Learning,5
+EAM,527,26128,仲元珩,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Knowledge Graphs,4
+EAM,527,26128,仲元珩,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Operational Experience,4
+EAM,527,26128,仲元珩,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Journey Maps,4
+EAM,527,26128,仲元珩,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Innovation Management,4
+EAM,527,26128,仲元珩,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Information Architecture,4
+EAM,527,26128,仲元珩,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Enterprise Conversational AI Platforms,4
+EAM,527,26128,仲元珩,G00790240,"Hype Cycle for Enterprise Architecture, 2023",EA Tools,5
+EAM,527,26128,仲元珩,G00790240,"Hype Cycle for Enterprise Architecture, 2023",EA Governance,5
+EAM,529,25185,蔡秉文,G00791195,"Hype Cycle for Operating Models, 2023",Cloud Resilience,5
+EAM,529,25185,蔡秉文,G00791195,"Hype Cycle for Operating Models, 2023",Infrastructure Orchestration,3
+EAM,529,25185,蔡秉文,G00791195,"Hype Cycle for Operating Models, 2023",DataOps,4
+EAM,529,25185,蔡秉文,G00791195,"Hype Cycle for Operating Models, 2023",Infrastructure Automation,3
+EAM,529,25185,蔡秉文,G00791195,"Hype Cycle for Operating Models, 2023",FinOps,3
+EAM,529,25185,蔡秉文,G00791195,"Hype Cycle for Operating Models, 2023",GitOps,3
+EAM,529,25185,蔡秉文,G00791195,"Hype Cycle for Operating Models, 2023",Cloud Center of Excellence,5
+EAM,529,25185,蔡秉文,G00791195,"Hype Cycle for Operating Models, 2023",DevSecOps,4
+EAM,529,25185,蔡秉文,G00791195,"Hype Cycle for Operating Models, 2023",NetDevOps,3
+EAM,529,25185,蔡秉文,G00791195,"Hype Cycle for Operating Models, 2023",Platform Engineering,3
+EAM,529,25185,蔡秉文,G00791195,"Hype Cycle for Operating Models, 2023",Product-Centric Delivery Model,3
+EAM,529,25185,蔡秉文,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Information Architecture,4
+EAM,529,25185,蔡秉文,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Business Capability Modeling,5
+EAM,529,25185,蔡秉文,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Business Ecosystem Modeling,3
+EAM,529,25185,蔡秉文,G00748304,"Hype Cycle for Supply Chain Planning Technologies, 2023",Supply Chain Control Tower,3
+EAM,529,25185,蔡秉文,G00748304,"Hype Cycle for Supply Chain Planning Technologies, 2023",Short-Term Demand Sensing,3
+EAM,529,25185,蔡秉文,G00748304,"Hype Cycle for Supply Chain Planning Technologies, 2023",Optimize Planning,3
+EAM,529,25185,蔡秉文,G00748304,"Hype Cycle for Supply Chain Planning Technologies, 2023",Network Design,3
+EAM,529,25185,蔡秉文,G00748304,"Hype Cycle for Supply Chain Planning Technologies, 2023",Integrated Supply Chain Planning,3
+EAM,529,25185,蔡秉文,G00748304,"Hype Cycle for Supply Chain Planning Technologies, 2023",Decision Intelligence,5
+EAM,529,25185,蔡秉文,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Composable Applications,3
+EAM,529,25185,蔡秉文,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Continuous Delivery,4
+EAM,529,25185,蔡秉文,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Decision Intelligence,5
+EAM,529,25185,蔡秉文,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Storage as a Service,4
+EAM,529,25185,蔡秉文,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Software-Defined Storage,3
+EAM,529,25185,蔡秉文,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Object Storage,4
+EAM,529,25185,蔡秉文,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Immutable Data Vault,3
+EAM,529,25185,蔡秉文,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Hyperconvergence,3
+EAM,529,25185,蔡秉文,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Hybrid Cloud Storage,3
+EAM,529,25185,蔡秉文,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Distributed File Systems,3
+EAM,529,25185,蔡秉文,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Digital Communications Governance,3
+EAM,529,25185,蔡秉文,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Container-Native Storage,3
+EAM,529,25185,蔡秉文,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Value Stream Mapping,4
+EAM,529,25185,蔡秉文,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Trendspotting,4
+EAM,529,25185,蔡秉文,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Total Experience,3
+EAM,529,25185,蔡秉文,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Roadmapping,5
+EAM,529,25185,蔡秉文,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Operational Experience,3
+EAM,529,25185,蔡秉文,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Machine Learning,3
+EAM,529,25185,蔡秉文,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Knowledge Graphs,5
+EAM,529,25185,蔡秉文,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Journey Maps,4
+EAM,529,25185,蔡秉文,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Innovation Management,4
+EAM,529,25185,蔡秉文,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Enterprise Conversational AI Platforms,5
+EAM,529,25185,蔡秉文,G00790240,"Hype Cycle for Enterprise Architecture, 2023",EA Tools,5
+EAM,529,25185,蔡秉文,G00790240,"Hype Cycle for Enterprise Architecture, 2023",EA Governance,5
+EAM,529,25185,蔡秉文,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Digital Twin,4
+EAM,529,25185,蔡秉文,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Digital Design,3
+EAM,529,25185,蔡秉文,G00791195,"Hype Cycle for Operating Models, 2023",Cloud Sustainability,5
+EAM,530,26046,林志育,G00791195,"Hype Cycle for Operating Models, 2023",DataOps,4
+EAM,530,26046,林志育,G00791195,"Hype Cycle for Operating Models, 2023",Product-Centric Delivery Model,4
+EAM,530,26046,林志育,G00791195,"Hype Cycle for Operating Models, 2023",Platform Engineering,4
+EAM,530,26046,林志育,G00791195,"Hype Cycle for Operating Models, 2023",NetDevOps,3
+EAM,530,26046,林志育,G00791195,"Hype Cycle for Operating Models, 2023",Infrastructure Orchestration,4
+EAM,530,26046,林志育,G00791195,"Hype Cycle for Operating Models, 2023",Infrastructure Automation,4
+EAM,530,26046,林志育,G00791195,"Hype Cycle for Operating Models, 2023",GitOps,4
+EAM,530,26046,林志育,G00791195,"Hype Cycle for Operating Models, 2023",FinOps,3
+EAM,530,26046,林志育,G00791195,"Hype Cycle for Operating Models, 2023",DevSecOps,4
+EAM,530,26046,林志育,G00791195,"Hype Cycle for Operating Models, 2023",Cloud Sustainability,4
+EAM,530,26046,林志育,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Software-Defined Storage,4
+EAM,530,26046,林志育,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Innovation Management,3
+EAM,530,26046,林志育,G00791195,"Hype Cycle for Operating Models, 2023",Cloud Resilience,3
+EAM,530,26046,林志育,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Information Architecture,3
+EAM,530,26046,林志育,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Enterprise Conversational AI Platforms,4
+EAM,530,26046,林志育,G00790240,"Hype Cycle for Enterprise Architecture, 2023",EA Tools,4
+EAM,530,26046,林志育,G00790240,"Hype Cycle for Enterprise Architecture, 2023",EA Governance,3
+EAM,530,26046,林志育,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Digital Twin,3
+EAM,530,26046,林志育,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Digital Design,3
+EAM,530,26046,林志育,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Decision Intelligence,3
+EAM,530,26046,林志育,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Continuous Delivery,3
+EAM,530,26046,林志育,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Composable Applications,3
+EAM,530,26046,林志育,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Business Capability Modeling,3
+EAM,530,26046,林志育,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Storage as a Service,4
+EAM,530,26046,林志育,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Object Storage,3
+EAM,530,26046,林志育,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Immutable Data Vault,3
+EAM,530,26046,林志育,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Hyperconvergence,4
+EAM,530,26046,林志育,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Hybrid Cloud Storage,4
+EAM,530,26046,林志育,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Distributed File Systems,4
+EAM,530,26046,林志育,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Digital Communications Governance,4
+EAM,530,26046,林志育,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Container-Native Storage,4
+EAM,530,26046,林志育,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Business Ecosystem Modeling,3
+EAM,530,26046,林志育,G00791195,"Hype Cycle for Operating Models, 2023",Cloud Center of Excellence,3
+EAM,530,26046,林志育,G00748304,"Hype Cycle for Supply Chain Planning Technologies, 2023",Supply Chain Control Tower,5
+EAM,530,26046,林志育,G00748304,"Hype Cycle for Supply Chain Planning Technologies, 2023",Short-Term Demand Sensing,4
+EAM,530,26046,林志育,G00748304,"Hype Cycle for Supply Chain Planning Technologies, 2023",Optimize Planning,4
+EAM,530,26046,林志育,G00748304,"Hype Cycle for Supply Chain Planning Technologies, 2023",Network Design,4
+EAM,530,26046,林志育,G00748304,"Hype Cycle for Supply Chain Planning Technologies, 2023",Integrated Supply Chain Planning,3
+EAM,530,26046,林志育,G00748304,"Hype Cycle for Supply Chain Planning Technologies, 2023",Decision Intelligence,3
+EAM,530,26046,林志育,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Journey Maps,3
+EAM,530,26046,林志育,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Knowledge Graphs,3
+EAM,530,26046,林志育,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Operational Experience,3
+EAM,530,26046,林志育,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Machine Learning,3
+EAM,530,26046,林志育,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Value Stream Mapping,3
+EAM,530,26046,林志育,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Trendspotting,3
+EAM,530,26046,林志育,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Total Experience,3
+EAM,530,26046,林志育,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Roadmapping,3
+EAM,533,27750,周羿廷,G00791195,"Hype Cycle for Operating Models, 2023",Infrastructure Orchestration,1
+EAM,533,27750,周羿廷,G00791195,"Hype Cycle for Operating Models, 2023",Platform Engineering,4
+EAM,533,27750,周羿廷,G00791195,"Hype Cycle for Operating Models, 2023",NetDevOps,4
+EAM,533,27750,周羿廷,G00791195,"Hype Cycle for Operating Models, 2023",Infrastructure Automation,1
+EAM,533,27750,周羿廷,G00791195,"Hype Cycle for Operating Models, 2023",GitOps,4
+EAM,533,27750,周羿廷,G00791195,"Hype Cycle for Operating Models, 2023",FinOps,1
+EAM,533,27750,周羿廷,G00791195,"Hype Cycle for Operating Models, 2023",Product-Centric Delivery Model,4
+EAM,533,27750,周羿廷,G00791195,"Hype Cycle for Operating Models, 2023",DevSecOps,4
+EAM,533,27750,周羿廷,G00791195,"Hype Cycle for Operating Models, 2023",DataOps,4
+EAM,533,27750,周羿廷,G00791195,"Hype Cycle for Operating Models, 2023",Cloud Resilience,1
+EAM,533,27750,周羿廷,G00748304,"Hype Cycle for Supply Chain Planning Technologies, 2023",Decision Intelligence,5
+EAM,533,27750,周羿廷,G00748304,"Hype Cycle for Supply Chain Planning Technologies, 2023",Integrated Supply Chain Planning,2
+EAM,533,27750,周羿廷,G00748304,"Hype Cycle for Supply Chain Planning Technologies, 2023",Network Design,1
+EAM,533,27750,周羿廷,G00748304,"Hype Cycle for Supply Chain Planning Technologies, 2023",Optimize Planning,3
+EAM,533,27750,周羿廷,G00748304,"Hype Cycle for Supply Chain Planning Technologies, 2023",Short-Term Demand Sensing,4
+EAM,533,27750,周羿廷,G00748304,"Hype Cycle for Supply Chain Planning Technologies, 2023",Supply Chain Control Tower,2
+EAM,533,27750,周羿廷,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Container-Native Storage,1
+EAM,533,27750,周羿廷,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Digital Communications Governance,1
+EAM,533,27750,周羿廷,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Distributed File Systems,1
+EAM,533,27750,周羿廷,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Hybrid Cloud Storage,1
+EAM,533,27750,周羿廷,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Hyperconvergence,1
+EAM,533,27750,周羿廷,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Immutable Data Vault,1
+EAM,533,27750,周羿廷,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Object Storage,1
+EAM,533,27750,周羿廷,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Software-Defined Storage,1
+EAM,533,27750,周羿廷,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Storage as a Service,1
+EAM,533,27750,周羿廷,G00791195,"Hype Cycle for Operating Models, 2023",Cloud Center of Excellence,1
+EAM,533,27750,周羿廷,G00791195,"Hype Cycle for Operating Models, 2023",Cloud Sustainability,2
+EAM,533,27750,周羿廷,G00790240,"Hype Cycle for Enterprise Architecture, 2023",EA Governance,5
+EAM,533,27750,周羿廷,G00790240,"Hype Cycle for Enterprise Architecture, 2023",EA Tools,5
+EAM,533,27750,周羿廷,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Enterprise Conversational AI Platforms,4
+EAM,533,27750,周羿廷,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Information Architecture,4
+EAM,533,27750,周羿廷,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Innovation Management,4
+EAM,533,27750,周羿廷,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Journey Maps,4
+EAM,533,27750,周羿廷,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Knowledge Graphs,4
+EAM,533,27750,周羿廷,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Machine Learning,3
+EAM,533,27750,周羿廷,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Operational Experience,3
+EAM,533,27750,周羿廷,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Roadmapping,4
+EAM,533,27750,周羿廷,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Total Experience,4
+EAM,533,27750,周羿廷,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Trendspotting,4
+EAM,533,27750,周羿廷,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Value Stream Mapping,4
+EAM,533,27750,周羿廷,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Digital Twin,3
+EAM,533,27750,周羿廷,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Digital Design,4
+EAM,533,27750,周羿廷,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Continuous Delivery,3
+EAM,533,27750,周羿廷,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Decision Intelligence,4
+EAM,533,27750,周羿廷,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Composable Applications,4
+EAM,533,27750,周羿廷,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Business Ecosystem Modeling,4
+EAM,533,27750,周羿廷,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Business Capability Modeling,4
+EAM,535,17008,徐國雄,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Operational Experience,2
+EAM,535,17008,徐國雄,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Value Stream Mapping,4
+EAM,535,17008,徐國雄,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Trendspotting,4
+EAM,535,17008,徐國雄,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Total Experience,2
+EAM,535,17008,徐國雄,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Roadmapping,4
+EAM,535,17008,徐國雄,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Machine Learning,5
+EAM,535,17008,徐國雄,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Digital Communications Governance,1
+EAM,535,17008,徐國雄,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Hyperconvergence,1
+EAM,535,17008,徐國雄,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Hybrid Cloud Storage,1
+EAM,535,17008,徐國雄,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Distributed File Systems,1
+EAM,535,17008,徐國雄,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Knowledge Graphs,4
+EAM,535,17008,徐國雄,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Container-Native Storage,1
+EAM,535,17008,徐國雄,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Journey Maps,4
+EAM,535,17008,徐國雄,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Information Architecture,4
+EAM,535,17008,徐國雄,G00748304,"Hype Cycle for Supply Chain Planning Technologies, 2023",Supply Chain Control Tower,2
+EAM,535,17008,徐國雄,G00748304,"Hype Cycle for Supply Chain Planning Technologies, 2023",Short-Term Demand Sensing,4
+EAM,535,17008,徐國雄,G00748304,"Hype Cycle for Supply Chain Planning Technologies, 2023",Optimize Planning,3
+EAM,535,17008,徐國雄,G00748304,"Hype Cycle for Supply Chain Planning Technologies, 2023",Network Design,1
+EAM,535,17008,徐國雄,G00748304,"Hype Cycle for Supply Chain Planning Technologies, 2023",Integrated Supply Chain Planning,2
+EAM,535,17008,徐國雄,G00748304,"Hype Cycle for Supply Chain Planning Technologies, 2023",Decision Intelligence,5
+EAM,535,17008,徐國雄,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Enterprise Conversational AI Platforms,5
+EAM,535,17008,徐國雄,G00790240,"Hype Cycle for Enterprise Architecture, 2023",EA Tools,5
+EAM,535,17008,徐國雄,G00790240,"Hype Cycle for Enterprise Architecture, 2023",EA Governance,5
+EAM,535,17008,徐國雄,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Digital Twin,4
+EAM,535,17008,徐國雄,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Digital Design,5
+EAM,535,17008,徐國雄,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Decision Intelligence,4
+EAM,535,17008,徐國雄,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Continuous Delivery,4
+EAM,535,17008,徐國雄,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Composable Applications,5
+EAM,535,17008,徐國雄,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Business Ecosystem Modeling,4
+EAM,535,17008,徐國雄,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Business Capability Modeling,4
+EAM,535,17008,徐國雄,G00790240,"Hype Cycle for Enterprise Architecture, 2023",Innovation Management,4
+EAM,535,17008,徐國雄,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Immutable Data Vault,1
+EAM,535,17008,徐國雄,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Object Storage,1
+EAM,535,17008,徐國雄,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Storage as a Service,1
+EAM,535,17008,徐國雄,G00790904,"Hype Cycle for Storage and Data Protection Technologies, 2023",Software-Defined Storage,1
+EAM,535,17008,徐國雄,G00791195,"Hype Cycle for Operating Models, 2023",DataOps,4
+EAM,535,17008,徐國雄,G00791195,"Hype Cycle for Operating Models, 2023",Cloud Sustainability,2
+EAM,535,17008,徐國雄,G00791195,"Hype Cycle for Operating Models, 2023",Cloud Resilience,1
+EAM,535,17008,徐國雄,G00791195,"Hype Cycle for Operating Models, 2023",Cloud Center of Excellence,1
+EAM,535,17008,徐國雄,G00791195,"Hype Cycle for Operating Models, 2023",DevSecOps,4
+EAM,535,17008,徐國雄,G00791195,"Hype Cycle for Operating Models, 2023",FinOps,1
+EAM,535,17008,徐國雄,G00791195,"Hype Cycle for Operating Models, 2023",Infrastructure Automation,1
+EAM,535,17008,徐國雄,G00791195,"Hype Cycle for Operating Models, 2023",GitOps,4
+EAM,535,17008,徐國雄,G00791195,"Hype Cycle for Operating Models, 2023",Product-Centric Delivery Model,4
+EAM,535,17008,徐國雄,G00791195,"Hype Cycle for Operating Models, 2023",Infrastructure Orchestration,1
+EAM,535,17008,徐國雄,G00791195,"Hype Cycle for Operating Models, 2023",Platform Engineering,4
+EAM,535,17008,徐國雄,G00791195,"Hype Cycle for Operating Models, 2023",NetDevOps,4
+EAM,527,26128,仲元珩,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Edge Asset Life Cycle Management,3
+EAM,527,26128,仲元珩,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Event Stream Processing,3
+EAM,527,26128,仲元珩,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Industrial Operational Intelligence,3
+EAM,527,26128,仲元珩,G00789203,"Hype Cycle for Managing Operational Technology, 2023",IoT Platform,4
+EAM,527,26128,仲元珩,G00789203,"Hype Cycle for Managing Operational Technology, 2023",IoT Services,4
+EAM,527,26128,仲元珩,G00789203,"Hype Cycle for Managing Operational Technology, 2023",IoT-Enabled Equipment as a Service,4
+EAM,527,26128,仲元珩,G00789203,"Hype Cycle for Managing Operational Technology, 2023",IT/OT Integration,5
+EAM,527,26128,仲元珩,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Machine Learning,5
+EAM,527,26128,仲元珩,G00789203,"Hype Cycle for Managing Operational Technology, 2023",OT Security,5
+EAM,527,26128,仲元珩,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Vulnerability Assessment,5
+EAM,527,26128,仲元珩,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Digital Twin,5
+EAM,527,26128,仲元珩,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Cyber-Physical Systems,3
+EAM,527,26128,仲元珩,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Asset Performance Management,3
+EAM,527,26128,仲元珩,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Building Information Modeling,4
+EAM,529,25185,蔡秉文,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Vulnerability Assessment,3
+EAM,529,25185,蔡秉文,G00789203,"Hype Cycle for Managing Operational Technology, 2023",OT Security,3
+EAM,529,25185,蔡秉文,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Machine Learning,3
+EAM,529,25185,蔡秉文,G00789203,"Hype Cycle for Managing Operational Technology, 2023",IT/OT Integration,4
+EAM,529,25185,蔡秉文,G00789203,"Hype Cycle for Managing Operational Technology, 2023",IoT-Enabled Equipment as a Service,3
+EAM,529,25185,蔡秉文,G00789203,"Hype Cycle for Managing Operational Technology, 2023",IoT Services,3
+EAM,529,25185,蔡秉文,G00789203,"Hype Cycle for Managing Operational Technology, 2023",IoT Platform,4
+EAM,529,25185,蔡秉文,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Industrial Operational Intelligence,3
+EAM,529,25185,蔡秉文,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Event Stream Processing,3
+EAM,529,25185,蔡秉文,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Edge Asset Life Cycle Management,3
+EAM,529,25185,蔡秉文,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Cyber-Physical Systems,3
+EAM,529,25185,蔡秉文,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Building Information Modeling,3
+EAM,529,25185,蔡秉文,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Asset Performance Management,3
+EAM,529,25185,蔡秉文,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Digital Twin,4
+ESG,528,27721,陳怡雯,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Last-Mile Delivery Solutions,1
+ESG,528,27721,陳怡雯,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Distributed Generation,1
+ESG,528,27721,陳怡雯,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Digital Twin of a Citizen,2
+ESG,528,27721,陳怡雯,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Edge AI,5
+ESG,528,27721,陳怡雯,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Edge Computing,5
+ESG,528,27721,陳怡雯,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Intelligent Street Pole,1
+ESG,528,27721,陳怡雯,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Digital Twins of Government,1
+ESG,528,27721,陳怡雯,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Smart City as a Service,2
+ESG,528,27721,陳怡雯,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Smart City Regional Governance,2
+ESG,528,27721,陳怡雯,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Supply Chain Cybersecurity,4
+ESG,528,27721,陳怡雯,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Water Management Analytics,1
+ESG,528,27721,陳怡雯,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Data Exchange,4
+ESG,528,27721,陳怡雯,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Smart City Framework,2
+ESG,528,27721,陳怡雯,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",City Operations Center,2
+ESG,528,27721,陳怡雯,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Carbon Accounting and Management Software,3
+ESG,528,27721,陳怡雯,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",5G,3
+ESG,528,27721,陳怡雯,G00790700,"Hype Cycle for Environmental Sustainability, 2023",AI for Sustainability,5
+ESG,528,27721,陳怡雯,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Banking Sustainability Tools,1
+ESG,528,27721,陳怡雯,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Biodiversity Accounting,1
+ESG,528,27721,陳怡雯,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Building Information Modeling,1
+ESG,528,27721,陳怡雯,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Climate Risk Analytics,3
+ESG,528,27721,陳怡雯,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Cloud Sustainability,4
+ESG,528,27721,陳怡雯,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Digital Product Passport,3
+ESG,528,27721,陳怡雯,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Digital Twins for Sustainability,4
+ESG,528,27721,陳怡雯,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Energy Efficiency,2
+ESG,528,27721,陳怡雯,G00790700,"Hype Cycle for Environmental Sustainability, 2023","Environmental, Social and Governance",4
+ESG,528,27721,陳怡雯,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Geospatial Platform,1
+ESG,528,27721,陳怡雯,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Green and Sustainable Finance,1
+ESG,528,27721,陳怡雯,G00790700,"Hype Cycle for Environmental Sustainability, 2023",IoT for Sustainability,4
+ESG,528,27721,陳怡雯,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Large-Scale Lithium-Ion Batteries,1
+ESG,528,27721,陳怡雯,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Sustainability in ERP,1
+ESG,528,27721,陳怡雯,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Water Management Analytics,1
+ESG,528,27721,陳怡雯,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Building Information Modeling,1
+ESG,528,27721,陳怡雯,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Digital Ethics,5
+ESG,528,27721,陳怡雯,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Balancing Opex and Capex,1
+ESG,528,27721,陳怡雯,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",BMaaS,1
+ESG,528,27721,陳怡雯,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Cloud Computing,5
+ESG,528,27721,陳怡雯,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Cloud Sustainability,5
+ESG,528,27721,陳怡雯,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Composable Infrastructure,2
+ESG,528,27721,陳怡雯,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Consumption-Based Model,1
+ESG,528,27721,陳怡雯,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Distributed Integrated Platforms,1
+ESG,528,27721,陳怡雯,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Generative AI,5
+ESG,528,27721,陳怡雯,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Water Management Analytics,1
+ESG,528,27721,陳怡雯,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Hyperconvergence,2
+ESG,528,27721,陳怡雯,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",IoT,4
+ESG,528,27721,陳怡雯,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Multicloud,3
+ESG,528,27721,陳怡雯,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",OS Containers,2
+ESG,528,27721,陳怡雯,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Programmable Infrastructure,3
+ESG,528,27721,陳怡雯,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",SD-WAN,2
+ESG,528,27721,陳怡雯,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Serverless Infrastructure,2
+ESG,528,27721,陳怡雯,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Site Reliability Engineering,2
+ESG,528,27721,陳怡雯,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Intelligent Infrastructure,1
+ESG,528,27721,陳怡雯,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Urban Waste Management,1
+ESG,528,27721,陳怡雯,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Edge Computing,5
+ESG,528,27721,陳怡雯,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Privacy in China,1
+ESG,528,27721,陳怡雯,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Urban Energy Management Platform,1
+ESG,528,27721,陳怡雯,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",5G for China,1
+ESG,528,27721,陳怡雯,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Data Governance,4
+ESG,528,27721,陳怡雯,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Digital Twin of a Citizen,1
+ESG,528,27721,陳怡雯,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Digital Twins of Government,1
+ESG,528,27721,陳怡雯,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Computer Vision for Smart Cities,1
+ESG,528,27721,陳怡雯,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",IoT in Smart Cities,2
+ESG,528,27721,陳怡雯,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",EVs and Charging Infrastructure in China,1
+ESG,528,27721,陳怡雯,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Food Safety and Traceability,1
+ESG,528,27721,陳怡雯,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Government Cloud in China,1
+ESG,528,27721,陳怡雯,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Intelligent Street Pole,1
+ESG,528,27721,陳怡雯,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Interjurisdictional Government Services,1
+ESG,528,27721,陳怡雯,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Environment Monitoring and Management,1
+ESG,528,27721,陳怡雯,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Natural Language Technologies in Smart Cities,4
+ESG,533,27750,周羿廷,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Consumption-Based Model,1
+ESG,533,27750,周羿廷,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Composable Infrastructure,1
+ESG,533,27750,周羿廷,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Cloud Sustainability,2
+ESG,533,27750,周羿廷,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Cloud Computing,4
+ESG,533,27750,周羿廷,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",BMaaS,1
+ESG,533,27750,周羿廷,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Balancing Opex and Capex,1
+ESG,533,27750,周羿廷,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Distributed Integrated Platforms,1
+ESG,533,27750,周羿廷,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Digital Twin of a Citizen,1
+ESG,533,27750,周羿廷,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Generative AI,5
+ESG,533,27750,周羿廷,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Hyperconvergence,1
+ESG,533,27750,周羿廷,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Intelligent Infrastructure,1
+ESG,533,27750,周羿廷,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",IoT,4
+ESG,533,27750,周羿廷,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Multicloud,1
+ESG,533,27750,周羿廷,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",OS Containers,1
+ESG,533,27750,周羿廷,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Programmable Infrastructure,1
+ESG,533,27750,周羿廷,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",SD-WAN,1
+ESG,533,27750,周羿廷,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Serverless Infrastructure,1
+ESG,533,27750,周羿廷,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Site Reliability Engineering,1
+ESG,533,27750,周羿廷,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",5G for China,1
+ESG,533,27750,周羿廷,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Computer Vision for Smart Cities,1
+ESG,533,27750,周羿廷,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Data Governance,5
+ESG,533,27750,周羿廷,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Edge Computing,4
+ESG,533,27750,周羿廷,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Digital Twins of Government,1
+ESG,533,27750,周羿廷,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Building Information Modeling,3
+ESG,533,27750,周羿廷,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",EVs and Charging Infrastructure in China,4
+ESG,533,27750,周羿廷,G00790700,"Hype Cycle for Environmental Sustainability, 2023",AI for Sustainability,4
+ESG,533,27750,周羿廷,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Banking Sustainability Tools,3
+ESG,533,27750,周羿廷,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Biodiversity Accounting,3
+ESG,533,27750,周羿廷,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Environment Monitoring and Management,4
+ESG,533,27750,周羿廷,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Climate Risk Analytics,4
+ESG,533,27750,周羿廷,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Cloud Sustainability,4
+ESG,533,27750,周羿廷,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Digital Product Passport,3
+ESG,533,27750,周羿廷,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Digital Twins for Sustainability,3
+ESG,533,27750,周羿廷,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Energy Efficiency,3
+ESG,533,27750,周羿廷,G00790700,"Hype Cycle for Environmental Sustainability, 2023","Environmental, Social and Governance",4
+ESG,533,27750,周羿廷,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Geospatial Platform,3
+ESG,533,27750,周羿廷,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Green and Sustainable Finance,3
+ESG,533,27750,周羿廷,G00790700,"Hype Cycle for Environmental Sustainability, 2023",IoT for Sustainability,3
+ESG,533,27750,周羿廷,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Large-Scale Lithium-Ion Batteries,3
+ESG,533,27750,周羿廷,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Sustainability in ERP,4
+ESG,533,27750,周羿廷,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Water Management Analytics,3
+ESG,533,27750,周羿廷,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Carbon Accounting and Management Software,4
+ESG,533,27750,周羿廷,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Food Safety and Traceability,1
+ESG,533,27750,周羿廷,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Government Cloud in China,1
+ESG,533,27750,周羿廷,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Intelligent Street Pole,1
+ESG,533,27750,周羿廷,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Interjurisdictional Government Services,1
+ESG,533,27750,周羿廷,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",IoT in Smart Cities,4
+ESG,533,27750,周羿廷,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Natural Language Technologies in Smart Cities,4
+ESG,533,27750,周羿廷,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Privacy in China,4
+ESG,533,27750,周羿廷,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Urban Waste Management,1
+ESG,533,27750,周羿廷,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Water Management Analytics,1
+ESG,533,27750,周羿廷,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",5G,1
+ESG,533,27750,周羿廷,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Building Information Modeling,2
+ESG,533,27750,周羿廷,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",City Operations Center,1
+ESG,533,27750,周羿廷,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Data Exchange,1
+ESG,533,27750,周羿廷,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Digital Ethics,1
+ESG,533,27750,周羿廷,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Urban Energy Management Platform,1
+ESG,533,27750,周羿廷,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Digital Twins of Government,1
+ESG,533,27750,周羿廷,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Digital Twin of a Citizen,1
+ESG,533,27750,周羿廷,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Water Management Analytics,1
+ESG,533,27750,周羿廷,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Smart City Regional Governance,1
+ESG,533,27750,周羿廷,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Smart City Framework,1
+ESG,533,27750,周羿廷,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Supply Chain Cybersecurity,1
+ESG,533,27750,周羿廷,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Last-Mile Delivery Solutions,1
+ESG,533,27750,周羿廷,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Intelligent Street Pole,1
+ESG,533,27750,周羿廷,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Edge Computing,4
+ESG,533,27750,周羿廷,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Edge AI,4
+ESG,533,27750,周羿廷,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Distributed Generation,1
+ESG,533,27750,周羿廷,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Smart City as a Service,1
+ESG,534,27748,胡家興,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Digital Twins of Government,5
+ESG,534,27748,胡家興,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Last-Mile Delivery Solutions,3
+ESG,534,27748,胡家興,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Distributed Generation,5
+ESG,534,27748,胡家興,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Edge AI,5
+ESG,534,27748,胡家興,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Digital Twin of a Citizen,5
+ESG,534,27748,胡家興,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Edge Computing,5
+ESG,534,27748,胡家興,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Intelligent Street Pole,5
+ESG,534,27748,胡家興,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Smart City as a Service,5
+ESG,534,27748,胡家興,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Smart City Regional Governance,5
+ESG,534,27748,胡家興,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Supply Chain Cybersecurity,5
+ESG,534,27748,胡家興,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Water Management Analytics,2
+ESG,534,27748,胡家興,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Digital Ethics,5
+ESG,534,27748,胡家興,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Smart City Framework,4
+ESG,534,27748,胡家興,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Data Exchange,5
+ESG,534,27748,胡家興,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Carbon Accounting and Management Software,5
+ESG,534,27748,胡家興,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Building Information Modeling,4
+ESG,534,27748,胡家興,G00790700,"Hype Cycle for Environmental Sustainability, 2023",AI for Sustainability,3
+ESG,534,27748,胡家興,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Banking Sustainability Tools,3
+ESG,534,27748,胡家興,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Biodiversity Accounting,1
+ESG,534,27748,胡家興,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Building Information Modeling,3
+ESG,534,27748,胡家興,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Climate Risk Analytics,5
+ESG,534,27748,胡家興,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Cloud Sustainability,5
+ESG,534,27748,胡家興,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Digital Product Passport,5
+ESG,534,27748,胡家興,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",City Operations Center,5
+ESG,534,27748,胡家興,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Digital Twins for Sustainability,5
+ESG,534,27748,胡家興,G00790700,"Hype Cycle for Environmental Sustainability, 2023","Environmental, Social and Governance",5
+ESG,534,27748,胡家興,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Geospatial Platform,5
+ESG,534,27748,胡家興,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Green and Sustainable Finance,3
+ESG,534,27748,胡家興,G00790700,"Hype Cycle for Environmental Sustainability, 2023",IoT for Sustainability,5
+ESG,534,27748,胡家興,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Large-Scale Lithium-Ion Batteries,4
+ESG,534,27748,胡家興,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Sustainability in ERP,4
+ESG,534,27748,胡家興,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Water Management Analytics,2
+ESG,534,27748,胡家興,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",5G,5
+ESG,534,27748,胡家興,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Energy Efficiency,5
+ESG,534,27748,胡家興,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Balancing Opex and Capex,5
+ESG,534,27748,胡家興,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",BMaaS,5
+ESG,534,27748,胡家興,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Cloud Computing,5
+ESG,534,27748,胡家興,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Cloud Sustainability,5
+ESG,534,27748,胡家興,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Composable Infrastructure,5
+ESG,534,27748,胡家興,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Consumption-Based Model,5
+ESG,534,27748,胡家興,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Distributed Integrated Platforms,5
+ESG,534,27748,胡家興,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Edge Computing,5
+ESG,534,27748,胡家興,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Water Management Analytics,2
+ESG,534,27748,胡家興,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Hyperconvergence,5
+ESG,534,27748,胡家興,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",IoT,5
+ESG,534,27748,胡家興,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Multicloud,5
+ESG,534,27748,胡家興,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",OS Containers,5
+ESG,534,27748,胡家興,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Programmable Infrastructure,5
+ESG,534,27748,胡家興,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",SD-WAN,5
+ESG,534,27748,胡家興,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Serverless Infrastructure,5
+ESG,534,27748,胡家興,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Site Reliability Engineering,5
+ESG,534,27748,胡家興,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Intelligent Infrastructure,5
+ESG,534,27748,胡家興,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Urban Waste Management,2
+ESG,534,27748,胡家興,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Generative AI,5
+ESG,534,27748,胡家興,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Privacy in China,5
+ESG,534,27748,胡家興,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Urban Energy Management Platform,5
+ESG,534,27748,胡家興,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Computer Vision for Smart Cities,5
+ESG,534,27748,胡家興,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Data Governance,5
+ESG,534,27748,胡家興,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Digital Twin of a Citizen,5
+ESG,534,27748,胡家興,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",5G for China,5
+ESG,534,27748,胡家興,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Environment Monitoring and Management,2
+ESG,534,27748,胡家興,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",EVs and Charging Infrastructure in China,2
+ESG,534,27748,胡家興,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Food Safety and Traceability,2
+ESG,534,27748,胡家興,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Government Cloud in China,5
+ESG,534,27748,胡家興,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Intelligent Street Pole,5
+ESG,534,27748,胡家興,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Interjurisdictional Government Services,5
+ESG,534,27748,胡家興,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Digital Twins of Government,5
+ESG,534,27748,胡家興,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",IoT in Smart Cities,5
+ESG,534,27748,胡家興,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Natural Language Technologies in Smart Cities,5
+ESG,535,17008,徐國雄,G00790700,"Hype Cycle for Environmental Sustainability, 2023",IoT for Sustainability,4
+ESG,535,17008,徐國雄,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Digital Product Passport,1
+ESG,535,17008,徐國雄,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Digital Twins for Sustainability,4
+ESG,535,17008,徐國雄,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Energy Efficiency,1
+ESG,535,17008,徐國雄,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Green and Sustainable Finance,1
+ESG,535,17008,徐國雄,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Geospatial Platform,1
+ESG,535,17008,徐國雄,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Cloud Sustainability,1
+ESG,535,17008,徐國雄,G00790700,"Hype Cycle for Environmental Sustainability, 2023","Environmental, Social and Governance",5
+ESG,535,17008,徐國雄,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Climate Risk Analytics,1
+ESG,535,17008,徐國雄,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Building Information Modeling,2
+ESG,535,17008,徐國雄,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Biodiversity Accounting,1
+ESG,535,17008,徐國雄,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Banking Sustainability Tools,1
+ESG,535,17008,徐國雄,G00790700,"Hype Cycle for Environmental Sustainability, 2023",AI for Sustainability,4
+ESG,535,17008,徐國雄,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Large-Scale Lithium-Ion Batteries,1
+ESG,535,17008,徐國雄,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Carbon Accounting and Management Software,5
+ESG,535,17008,徐國雄,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Sustainability in ERP,5
+ESG,535,17008,徐國雄,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Balancing Opex and Capex,1
+ESG,535,17008,徐國雄,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Site Reliability Engineering,1
+ESG,535,17008,徐國雄,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Serverless Infrastructure,1
+ESG,535,17008,徐國雄,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",SD-WAN,1
+ESG,535,17008,徐國雄,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Programmable Infrastructure,1
+ESG,535,17008,徐國雄,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",OS Containers,1
+ESG,535,17008,徐國雄,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Multicloud,1
+ESG,535,17008,徐國雄,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",IoT,4
+ESG,535,17008,徐國雄,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Intelligent Infrastructure,1
+ESG,535,17008,徐國雄,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Hyperconvergence,1
+ESG,535,17008,徐國雄,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Generative AI,5
+ESG,535,17008,徐國雄,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Edge Computing,4
+ESG,535,17008,徐國雄,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Distributed Integrated Platforms,1
+ESG,535,17008,徐國雄,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Consumption-Based Model,1
+ESG,535,17008,徐國雄,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Cloud Sustainability,2
+ESG,535,17008,徐國雄,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Cloud Computing,4
+ESG,535,17008,徐國雄,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",BMaaS,1
+ESG,535,17008,徐國雄,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Water Management Analytics,1
+ESG,535,17008,徐國雄,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Smart City Regional Governance,1
+ESG,535,17008,徐國雄,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Smart City Framework,1
+ESG,535,17008,徐國雄,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Smart City as a Service,1
+ESG,535,17008,徐國雄,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Last-Mile Delivery Solutions,1
+ESG,535,17008,徐國雄,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Intelligent Street Pole,1
+ESG,535,17008,徐國雄,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Edge Computing,4
+ESG,535,17008,徐國雄,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Edge AI,4
+ESG,535,17008,徐國雄,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Distributed Generation,1
+ESG,535,17008,徐國雄,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Digital Twins of Government,1
+ESG,535,17008,徐國雄,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Digital Twin of a Citizen,1
+ESG,535,17008,徐國雄,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Digital Ethics,1
+ESG,535,17008,徐國雄,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Data Exchange,1
+ESG,535,17008,徐國雄,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",City Operations Center,1
+ESG,535,17008,徐國雄,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Building Information Modeling,2
+ESG,535,17008,徐國雄,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",5G,1
+ESG,535,17008,徐國雄,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Supply Chain Cybersecurity,1
+ESG,535,17008,徐國雄,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Water Management Analytics,1
+ESG,535,17008,徐國雄,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Composable Infrastructure,1
+ESG,535,17008,徐國雄,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Water Management Analytics,1
+ESG,535,17008,徐國雄,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Urban Waste Management,1
+ESG,535,17008,徐國雄,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Urban Energy Management Platform,1
+ESG,535,17008,徐國雄,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Privacy in China,4
+ESG,535,17008,徐國雄,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Natural Language Technologies in Smart Cities,4
+ESG,535,17008,徐國雄,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",IoT in Smart Cities,4
+ESG,535,17008,徐國雄,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Interjurisdictional Government Services,1
+ESG,535,17008,徐國雄,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Intelligent Street Pole,1
+ESG,535,17008,徐國雄,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Government Cloud in China,1
+ESG,535,17008,徐國雄,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Food Safety and Traceability,1
+ESG,535,17008,徐國雄,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",EVs and Charging Infrastructure in China,4
+ESG,535,17008,徐國雄,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Environment Monitoring and Management,4
+ESG,535,17008,徐國雄,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Digital Twins of Government,1
+ESG,535,17008,徐國雄,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Data Governance,5
+ESG,535,17008,徐國雄,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Computer Vision for Smart Cities,1
+ESG,535,17008,徐國雄,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",5G for China,1
+ESG,535,17008,徐國雄,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Digital Twin of a Citizen,1
+ESG,536,16320,黃炳儂,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Edge AI,4
+ESG,536,16320,黃炳儂,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Supply Chain Cybersecurity,3
+ESG,536,16320,黃炳儂,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Edge Computing,4
+ESG,536,16320,黃炳儂,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Intelligent Street Pole,2
+ESG,536,16320,黃炳儂,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Last-Mile Delivery Solutions,2
+ESG,536,16320,黃炳儂,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Smart City as a Service,3
+ESG,536,16320,黃炳儂,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Smart City Framework,4
+ESG,536,16320,黃炳儂,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Smart City Regional Governance,4
+ESG,536,16320,黃炳儂,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Data Governance,5
+ESG,536,16320,黃炳儂,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",5G for China,1
+ESG,536,16320,黃炳儂,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Computer Vision for Smart Cities,1
+ESG,536,16320,黃炳儂,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Digital Twin of a Citizen,1
+ESG,536,16320,黃炳儂,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Digital Twins of Government,1
+ESG,536,16320,黃炳儂,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Environment Monitoring and Management,4
+ESG,536,16320,黃炳儂,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",EVs and Charging Infrastructure in China,4
+ESG,536,16320,黃炳儂,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Distributed Generation,3
+ESG,536,16320,黃炳儂,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Food Safety and Traceability,1
+ESG,536,16320,黃炳儂,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Water Management Analytics,2
+ESG,536,16320,黃炳儂,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Digital Twins of Government,3
+ESG,536,16320,黃炳儂,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Digital Ethics,4
+ESG,536,16320,黃炳儂,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Government Cloud in China,1
+ESG,536,16320,黃炳儂,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",5G,4
+ESG,536,16320,黃炳儂,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Building Information Modeling,4
+ESG,536,16320,黃炳儂,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",City Operations Center,4
+ESG,536,16320,黃炳儂,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Data Exchange,4
+ESG,536,16320,黃炳儂,G00788973,"Hype Cycle for Smart City Technologies and Solutions, 2023",Digital Twin of a Citizen,4
+ESG,536,16320,黃炳儂,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Intelligent Street Pole,1
+ESG,536,16320,黃炳儂,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Site Reliability Engineering,1
+ESG,536,16320,黃炳儂,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",IoT in Smart Cities,4
+ESG,536,16320,黃炳儂,G00790700,"Hype Cycle for Environmental Sustainability, 2023",AI for Sustainability,4
+ESG,536,16320,黃炳儂,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Banking Sustainability Tools,1
+ESG,536,16320,黃炳儂,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Biodiversity Accounting,1
+ESG,536,16320,黃炳儂,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Building Information Modeling,2
+ESG,536,16320,黃炳儂,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Carbon Accounting and Management Software,5
+ESG,536,16320,黃炳儂,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Climate Risk Analytics,1
+ESG,536,16320,黃炳儂,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Cloud Sustainability,1
+ESG,536,16320,黃炳儂,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Digital Product Passport,1
+ESG,536,16320,黃炳儂,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Digital Twins for Sustainability,4
+ESG,536,16320,黃炳儂,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Energy Efficiency,1
+ESG,536,16320,黃炳儂,G00790700,"Hype Cycle for Environmental Sustainability, 2023","Environmental, Social and Governance",5
+ESG,536,16320,黃炳儂,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Geospatial Platform,1
+ESG,536,16320,黃炳儂,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Green and Sustainable Finance,1
+ESG,536,16320,黃炳儂,G00790700,"Hype Cycle for Environmental Sustainability, 2023",IoT for Sustainability,4
+ESG,536,16320,黃炳儂,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Large-Scale Lithium-Ion Batteries,1
+ESG,536,16320,黃炳儂,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Sustainability in ERP,5
+ESG,536,16320,黃炳儂,G00790700,"Hype Cycle for Environmental Sustainability, 2023",Water Management Analytics,1
+ESG,536,16320,黃炳儂,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Serverless Infrastructure,1
+ESG,536,16320,黃炳儂,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",SD-WAN,1
+ESG,536,16320,黃炳儂,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Programmable Infrastructure,1
+ESG,536,16320,黃炳儂,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",OS Containers,1
+ESG,536,16320,黃炳儂,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Natural Language Technologies in Smart Cities,4
+ESG,536,16320,黃炳儂,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Privacy in China,4
+ESG,536,16320,黃炳儂,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Urban Energy Management Platform,1
+ESG,536,16320,黃炳儂,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Urban Waste Management,1
+ESG,536,16320,黃炳儂,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Water Management Analytics,1
+ESG,536,16320,黃炳儂,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Balancing Opex and Capex,1
+ESG,536,16320,黃炳儂,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",BMaaS,1
+ESG,536,16320,黃炳儂,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Cloud Computing,4
+ESG,536,16320,黃炳儂,G00790987,"Hype Cycle for Smart City and Sustainability in China, 2023",Interjurisdictional Government Services,1
+ESG,536,16320,黃炳儂,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Cloud Sustainability,2
+ESG,536,16320,黃炳儂,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Consumption-Based Model,1
+ESG,536,16320,黃炳儂,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Distributed Integrated Platforms,1
+ESG,536,16320,黃炳儂,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Edge Computing,4
+ESG,536,16320,黃炳儂,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Generative AI,5
+ESG,536,16320,黃炳儂,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Hyperconvergence,1
+ESG,536,16320,黃炳儂,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Intelligent Infrastructure,1
+ESG,536,16320,黃炳儂,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",IoT,4
+ESG,536,16320,黃炳儂,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Multicloud,1
+ESG,536,16320,黃炳儂,G00790892,"Hype Cycle for Infrastructure Strategy, 2023",Composable Infrastructure,1
+ESG,528,27721,陳怡雯,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Cyber-Physical Systems,1
+ESG,528,27721,陳怡雯,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Asset Performance Management,2
+ESG,528,27721,陳怡雯,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Building Information Modeling,1
+ESG,528,27721,陳怡雯,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Digital Twin,4
+ESG,528,27721,陳怡雯,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Edge Asset Life Cycle Management,3
+ESG,528,27721,陳怡雯,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Event Stream Processing,1
+ESG,528,27721,陳怡雯,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Industrial Operational Intelligence,1
+ESG,528,27721,陳怡雯,G00789203,"Hype Cycle for Managing Operational Technology, 2023",IoT Services,4
+ESG,528,27721,陳怡雯,G00789203,"Hype Cycle for Managing Operational Technology, 2023",IoT Platform,4
+ESG,528,27721,陳怡雯,G00789203,"Hype Cycle for Managing Operational Technology, 2023",IT/OT Integration,4
+ESG,528,27721,陳怡雯,G00789203,"Hype Cycle for Managing Operational Technology, 2023",IoT-Enabled Equipment as a Service,4
+ESG,528,27721,陳怡雯,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Machine Learning,5
+ESG,528,27721,陳怡雯,G00789203,"Hype Cycle for Managing Operational Technology, 2023",OT Security,4
+ESG,528,27721,陳怡雯,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Vulnerability Assessment,3
+ESG,534,27748,胡家興,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Building Information Modeling,3
+ESG,534,27748,胡家興,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Asset Performance Management,5
+ESG,534,27748,胡家興,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Digital Twin,5
+ESG,534,27748,胡家興,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Edge Asset Life Cycle Management,5
+ESG,534,27748,胡家興,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Event Stream Processing,3
+ESG,534,27748,胡家興,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Industrial Operational Intelligence,3
+ESG,534,27748,胡家興,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Cyber-Physical Systems,5
+ESG,534,27748,胡家興,G00789203,"Hype Cycle for Managing Operational Technology, 2023",IoT Services,5
+ESG,534,27748,胡家興,G00789203,"Hype Cycle for Managing Operational Technology, 2023",IoT Platform,5
+ESG,534,27748,胡家興,G00789203,"Hype Cycle for Managing Operational Technology, 2023",IoT-Enabled Equipment as a Service,3
+ESG,534,27748,胡家興,G00789203,"Hype Cycle for Managing Operational Technology, 2023",IT/OT Integration,5
+ESG,534,27748,胡家興,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Machine Learning,5
+ESG,534,27748,胡家興,G00789203,"Hype Cycle for Managing Operational Technology, 2023",OT Security,5
+ESG,534,27748,胡家興,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Vulnerability Assessment,5
+ESG,536,16320,黃炳儂,G00789203,"Hype Cycle for Managing Operational Technology, 2023",IoT-Enabled Equipment as a Service,4
+ESG,536,16320,黃炳儂,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Building Information Modeling,4
+ESG,536,16320,黃炳儂,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Cyber-Physical Systems,3
+ESG,536,16320,黃炳儂,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Digital Twin,4
+ESG,536,16320,黃炳儂,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Edge Asset Life Cycle Management,4
+ESG,536,16320,黃炳儂,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Event Stream Processing,4
+ESG,536,16320,黃炳儂,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Industrial Operational Intelligence,3
+ESG,536,16320,黃炳儂,G00789203,"Hype Cycle for Managing Operational Technology, 2023",IoT Platform,4
+ESG,536,16320,黃炳儂,G00789203,"Hype Cycle for Managing Operational Technology, 2023",IoT Services,4
+ESG,536,16320,黃炳儂,G00789203,"Hype Cycle for Managing Operational Technology, 2023",IT/OT Integration,4
+ESG,536,16320,黃炳儂,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Machine Learning,4
+ESG,536,16320,黃炳儂,G00789203,"Hype Cycle for Managing Operational Technology, 2023",OT Security,4
+ESG,536,16320,黃炳儂,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Vulnerability Assessment,4
+ESG,536,16320,黃炳儂,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Asset Performance Management,4
+Gen-AI,529,25185,蔡秉文,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Synthetic Data,4
+Gen-AI,529,25185,蔡秉文,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Data Labeling and Annotation,5
+Gen-AI,529,25185,蔡秉文,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Knowledge Graphs,5
+Gen-AI,529,25185,蔡秉文,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Intelligent Applications,5
+Gen-AI,529,25185,蔡秉文,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Generative AI,5
+Gen-AI,529,25185,蔡秉文,G00791179,"Hype Cycle for Artificial Intelligence, 2023",First-Principles AI,3
+Gen-AI,529,25185,蔡秉文,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Edge AI,4
+Gen-AI,529,25185,蔡秉文,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Decision Intelligence,5
+Gen-AI,529,25185,蔡秉文,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Data-Centric AI,5
+Gen-AI,529,25185,蔡秉文,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Computer Vision,4
+Gen-AI,529,25185,蔡秉文,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Composite AI,3
+Gen-AI,529,25185,蔡秉文,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Prompt Engineering,5
+Gen-AI,529,25185,蔡秉文,G00792530,"Hype Cycle for IT Management Intelligence, 2023",DEX Tools,4
+Gen-AI,529,25185,蔡秉文,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Log Monitoring and Analysis,4
+Gen-AI,529,25185,蔡秉文,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Intelligent Document Processing,4
+Gen-AI,529,25185,蔡秉文,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Intelligent Automation,5
+Gen-AI,529,25185,蔡秉文,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Generative AI,5
+Gen-AI,529,25185,蔡秉文,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Digital Experience Monitoring,3
+Gen-AI,529,25185,蔡秉文,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Cloud AI Services,3
+Gen-AI,529,25185,蔡秉文,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Deep Learning,3
+Gen-AI,529,25185,蔡秉文,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Conversational User Interfaces,3
+Gen-AI,529,25185,蔡秉文,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Autonomous Workload Optimization,3
+Gen-AI,529,25185,蔡秉文,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Application Security Posture Management,3
+Gen-AI,529,25185,蔡秉文,G00792530,"Hype Cycle for IT Management Intelligence, 2023",APM,3
+Gen-AI,529,25185,蔡秉文,G00792530,"Hype Cycle for IT Management Intelligence, 2023",AI-Augmented Testing,5
+Gen-AI,529,25185,蔡秉文,G00792530,"Hype Cycle for IT Management Intelligence, 2023",AI-Augmented Software Engineering,5
+Gen-AI,529,25185,蔡秉文,G00792530,"Hype Cycle for IT Management Intelligence, 2023",AI Governance,5
+Gen-AI,529,25185,蔡秉文,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Causal AI,4
+Gen-AI,529,25185,蔡秉文,G00791179,"Hype Cycle for Artificial Intelligence, 2023",AI Maker and Teaching Kits,3
+Gen-AI,529,25185,蔡秉文,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Machine Learning,3
+Gen-AI,529,25185,蔡秉文,G00791179,"Hype Cycle for Artificial Intelligence, 2023",AI TRiSM,4
+Gen-AI,529,25185,蔡秉文,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Network AI and Automation,3
+Gen-AI,529,25185,蔡秉文,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Process Mining,4
+Gen-AI,529,25185,蔡秉文,G00796247,"Hype Cycle for Digital Government Services, 2023",Prescriptive Analytics,3
+Gen-AI,529,25185,蔡秉文,G00796247,"Hype Cycle for Digital Government Services, 2023",Predictive Analytics in Government,3
+Gen-AI,529,25185,蔡秉文,G00796247,"Hype Cycle for Digital Government Services, 2023",Partner Ecosystem Management Platforms,3
+Gen-AI,529,25185,蔡秉文,G00796247,"Hype Cycle for Digital Government Services, 2023",Multiexperience,3
+Gen-AI,529,25185,蔡秉文,G00796247,"Hype Cycle for Digital Government Services, 2023",LCAP in Government,3
+Gen-AI,529,25185,蔡秉文,G00796247,"Hype Cycle for Digital Government Services, 2023",Intelligent Document Processing,3
+Gen-AI,529,25185,蔡秉文,G00796247,"Hype Cycle for Digital Government Services, 2023",Innovation Ecosystems,3
+Gen-AI,529,25185,蔡秉文,G00796247,"Hype Cycle for Digital Government Services, 2023",Identity Wallets,3
+Gen-AI,529,25185,蔡秉文,G00796247,"Hype Cycle for Digital Government Services, 2023",Human-Centered AI,4
+Gen-AI,529,25185,蔡秉文,G00796247,"Hype Cycle for Digital Government Services, 2023",Generative AI,5
+Gen-AI,529,25185,蔡秉文,G00796247,"Hype Cycle for Digital Government Services, 2023",DXP,3
+Gen-AI,529,25185,蔡秉文,G00796247,"Hype Cycle for Digital Government Services, 2023",Digital Twin of a Citizen,4
+Gen-AI,529,25185,蔡秉文,G00796247,"Hype Cycle for Digital Government Services, 2023",Design Systems,3
+Gen-AI,529,25185,蔡秉文,G00796247,"Hype Cycle for Digital Government Services, 2023",Customer Journey Analytics,4
+Gen-AI,529,25185,蔡秉文,G00796247,"Hype Cycle for Digital Government Services, 2023",Computer Vision,3
+Gen-AI,529,25185,蔡秉文,G00796247,"Hype Cycle for Digital Government Services, 2023",Business Ecosystem Modeling,3
+Gen-AI,529,25185,蔡秉文,G00795274,"Hype Cycle for Generative AI, 2023",Synthetic Data,4
+Gen-AI,529,25185,蔡秉文,G00795274,"Hype Cycle for Generative AI, 2023",Self-Supervised Learning,4
+Gen-AI,529,25185,蔡秉文,G00795274,"Hype Cycle for Generative AI, 2023",Retrieval Augmented Generation,5
+Gen-AI,529,25185,蔡秉文,G00795274,"Hype Cycle for Generative AI, 2023",Prompt Engineering,5
+Gen-AI,529,25185,蔡秉文,G00795274,"Hype Cycle for Generative AI, 2023",Open-Source LLMs,5
+Gen-AI,529,25185,蔡秉文,G00795274,"Hype Cycle for Generative AI, 2023",Model Hubs,5
+Gen-AI,529,25185,蔡秉文,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Observability,3
+Gen-AI,529,25185,蔡秉文,G00795274,"Hype Cycle for Generative AI, 2023",Large Language Models,5
+Gen-AI,529,25185,蔡秉文,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Intelligent Infrastructure,5
+Gen-AI,529,25185,蔡秉文,G00795274,"Hype Cycle for Generative AI, 2023",AI-Augmented Software Engineering,5
+Gen-AI,529,25185,蔡秉文,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Semantic Search,4
+Gen-AI,529,25185,蔡秉文,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Prompt Engineering,5
+Gen-AI,529,25185,蔡秉文,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Open-Source NLP Toolkits,4
+Gen-AI,529,25185,蔡秉文,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Ontologies and Knowledge Graphs,4
+Gen-AI,529,25185,蔡秉文,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Neural Machine Translation,3
+Gen-AI,529,25185,蔡秉文,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Natural Language Understanding,5
+Gen-AI,529,25185,蔡秉文,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Natural Language Generation,3
+Gen-AI,529,25185,蔡秉文,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Multistructured Analytics,3
+Gen-AI,529,25185,蔡秉文,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Intelligent Document Processing,3
+Gen-AI,529,25185,蔡秉文,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Insight Engines,4
+Gen-AI,529,25185,蔡秉文,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Generative AI-Enabled Applications,5
+Gen-AI,529,25185,蔡秉文,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Generative AI,5
+Gen-AI,529,25185,蔡秉文,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Enterprise Conversational AI Platforms,3
+Gen-AI,529,25185,蔡秉文,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Conversational User Interfaces,3
+Gen-AI,529,25185,蔡秉文,G00795274,"Hype Cycle for Generative AI, 2023",Generative AI-Enabled Applications,5
+Gen-AI,529,25185,蔡秉文,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Prompt Engineering,5
+Gen-AI,529,25185,蔡秉文,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Natural Language Query,3
+Gen-AI,529,25185,蔡秉文,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Threat Intelligence Products and Services,3
+Gen-AI,529,25185,蔡秉文,G00795274,"Hype Cycle for Generative AI, 2023",AI TRiSM,5
+Gen-AI,530,26046,林志育,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Cloud AI Services,5
+Gen-AI,530,26046,林志育,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Composite AI,4
+Gen-AI,530,26046,林志育,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Computer Vision,5
+Gen-AI,530,26046,林志育,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Edge AI,4
+Gen-AI,530,26046,林志育,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Data-Centric AI,4
+Gen-AI,530,26046,林志育,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Decision Intelligence,4
+Gen-AI,530,26046,林志育,G00791179,"Hype Cycle for Artificial Intelligence, 2023",First-Principles AI,4
+Gen-AI,530,26046,林志育,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Data Labeling and Annotation,4
+Gen-AI,530,26046,林志育,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Causal AI,5
+Gen-AI,530,26046,林志育,G00791179,"Hype Cycle for Artificial Intelligence, 2023",AI Maker and Teaching Kits,5
+Gen-AI,530,26046,林志育,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Generative AI,5
+Gen-AI,530,26046,林志育,G00791179,"Hype Cycle for Artificial Intelligence, 2023",AI TRiSM,5
+Gen-AI,530,26046,林志育,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Intelligent Applications,4
+Gen-AI,530,26046,林志育,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Prompt Engineering,4
+Gen-AI,530,26046,林志育,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Knowledge Graphs,5
+Gen-AI,530,26046,林志育,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Synthetic Data,4
+Gen-AI,530,26046,林志育,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Conversational User Interfaces,3
+Gen-AI,530,26046,林志育,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Network AI and Automation,4
+Gen-AI,530,26046,林志育,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Machine Learning,4
+Gen-AI,530,26046,林志育,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Log Monitoring and Analysis,4
+Gen-AI,530,26046,林志育,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Intelligent Infrastructure,4
+Gen-AI,530,26046,林志育,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Intelligent Document Processing,4
+Gen-AI,530,26046,林志育,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Intelligent Automation,4
+Gen-AI,530,26046,林志育,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Generative AI,4
+Gen-AI,530,26046,林志育,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Digital Experience Monitoring,4
+Gen-AI,530,26046,林志育,G00792530,"Hype Cycle for IT Management Intelligence, 2023",DEX Tools,4
+Gen-AI,530,26046,林志育,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Deep Learning,4
+Gen-AI,530,26046,林志育,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Conversational User Interfaces,4
+Gen-AI,530,26046,林志育,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Autonomous Workload Optimization,4
+Gen-AI,530,26046,林志育,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Application Security Posture Management,4
+Gen-AI,530,26046,林志育,G00792530,"Hype Cycle for IT Management Intelligence, 2023",APM,4
+Gen-AI,530,26046,林志育,G00792530,"Hype Cycle for IT Management Intelligence, 2023",AI-Augmented Testing,4
+Gen-AI,530,26046,林志育,G00792530,"Hype Cycle for IT Management Intelligence, 2023",AI-Augmented Software Engineering,4
+Gen-AI,530,26046,林志育,G00792530,"Hype Cycle for IT Management Intelligence, 2023",AI Governance,4
+Gen-AI,530,26046,林志育,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Observability,4
+Gen-AI,530,26046,林志育,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Process Mining,4
+Gen-AI,530,26046,林志育,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Threat Intelligence Products and Services,4
+Gen-AI,530,26046,林志育,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Semantic Search,4
+Gen-AI,530,26046,林志育,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Prompt Engineering,5
+Gen-AI,530,26046,林志育,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Open-Source NLP Toolkits,4
+Gen-AI,530,26046,林志育,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Ontologies and Knowledge Graphs,4
+Gen-AI,530,26046,林志育,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Neural Machine Translation,3
+Gen-AI,530,26046,林志育,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Natural Language Understanding,5
+Gen-AI,530,26046,林志育,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Natural Language Query,3
+Gen-AI,530,26046,林志育,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Natural Language Generation,3
+Gen-AI,530,26046,林志育,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Multistructured Analytics,3
+Gen-AI,530,26046,林志育,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Intelligent Document Processing,3
+Gen-AI,530,26046,林志育,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Insight Engines,4
+Gen-AI,530,26046,林志育,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Generative AI-Enabled Applications,5
+Gen-AI,530,26046,林志育,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Generative AI,5
+Gen-AI,530,26046,林志育,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Enterprise Conversational AI Platforms,3
+Gen-AI,530,26046,林志育,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Prompt Engineering,4
+Gen-AI,530,26046,林志育,G00796247,"Hype Cycle for Digital Government Services, 2023",Generative AI,5
+Gen-AI,530,26046,林志育,G00796247,"Hype Cycle for Digital Government Services, 2023",DXP,3
+Gen-AI,530,26046,林志育,G00796247,"Hype Cycle for Digital Government Services, 2023",Digital Twin of a Citizen,3
+Gen-AI,530,26046,林志育,G00796247,"Hype Cycle for Digital Government Services, 2023",Design Systems,3
+Gen-AI,530,26046,林志育,G00796247,"Hype Cycle for Digital Government Services, 2023",Customer Journey Analytics,4
+Gen-AI,530,26046,林志育,G00796247,"Hype Cycle for Digital Government Services, 2023",Computer Vision,4
+Gen-AI,530,26046,林志育,G00796247,"Hype Cycle for Digital Government Services, 2023",Business Ecosystem Modeling,4
+Gen-AI,530,26046,林志育,G00795274,"Hype Cycle for Generative AI, 2023",Synthetic Data,4
+Gen-AI,530,26046,林志育,G00795274,"Hype Cycle for Generative AI, 2023",Self-Supervised Learning,4
+Gen-AI,530,26046,林志育,G00795274,"Hype Cycle for Generative AI, 2023",Retrieval Augmented Generation,4
+Gen-AI,530,26046,林志育,G00796247,"Hype Cycle for Digital Government Services, 2023",Human-Centered AI,4
+Gen-AI,530,26046,林志育,G00795274,"Hype Cycle for Generative AI, 2023",Prompt Engineering,4
+Gen-AI,530,26046,林志育,G00795274,"Hype Cycle for Generative AI, 2023",Model Hubs,4
+Gen-AI,530,26046,林志育,G00795274,"Hype Cycle for Generative AI, 2023",Large Language Models,4
+Gen-AI,530,26046,林志育,G00795274,"Hype Cycle for Generative AI, 2023",Generative AI-Enabled Applications,4
+Gen-AI,530,26046,林志育,G00795274,"Hype Cycle for Generative AI, 2023",AI-Augmented Software Engineering,4
+Gen-AI,530,26046,林志育,G00795274,"Hype Cycle for Generative AI, 2023",AI TRiSM,5
+Gen-AI,530,26046,林志育,G00795274,"Hype Cycle for Generative AI, 2023",Open-Source LLMs,4
+Gen-AI,530,26046,林志育,G00796247,"Hype Cycle for Digital Government Services, 2023",Identity Wallets,3
+Gen-AI,530,26046,林志育,G00796247,"Hype Cycle for Digital Government Services, 2023",Intelligent Document Processing,3
+Gen-AI,530,26046,林志育,G00796247,"Hype Cycle for Digital Government Services, 2023",Innovation Ecosystems,3
+Gen-AI,530,26046,林志育,G00796247,"Hype Cycle for Digital Government Services, 2023",Prescriptive Analytics,3
+Gen-AI,530,26046,林志育,G00796247,"Hype Cycle for Digital Government Services, 2023",Predictive Analytics in Government,3
+Gen-AI,530,26046,林志育,G00796247,"Hype Cycle for Digital Government Services, 2023",Partner Ecosystem Management Platforms,3
+Gen-AI,530,26046,林志育,G00796247,"Hype Cycle for Digital Government Services, 2023",Multiexperience,3
+Gen-AI,530,26046,林志育,G00796247,"Hype Cycle for Digital Government Services, 2023",LCAP in Government,4
+Gen-AI,531,27897,王昭晴,G00795274,"Hype Cycle for Generative AI, 2023",AI TRiSM,5
+Gen-AI,531,27897,王昭晴,G00795274,"Hype Cycle for Generative AI, 2023",AI-Augmented Software Engineering,5
+Gen-AI,531,27897,王昭晴,G00795274,"Hype Cycle for Generative AI, 2023",Generative AI-Enabled Applications,5
+Gen-AI,531,27897,王昭晴,G00795274,"Hype Cycle for Generative AI, 2023",Large Language Models,5
+Gen-AI,531,27897,王昭晴,G00795274,"Hype Cycle for Generative AI, 2023",Prompt Engineering,5
+Gen-AI,531,27897,王昭晴,G00795274,"Hype Cycle for Generative AI, 2023",Open-Source LLMs,5
+Gen-AI,531,27897,王昭晴,G00795274,"Hype Cycle for Generative AI, 2023",Retrieval Augmented Generation,5
+Gen-AI,531,27897,王昭晴,G00795274,"Hype Cycle for Generative AI, 2023",Self-Supervised Learning,4
+Gen-AI,531,27897,王昭晴,G00795274,"Hype Cycle for Generative AI, 2023",Synthetic Data,2
+Gen-AI,531,27897,王昭晴,G00795274,"Hype Cycle for Generative AI, 2023",Model Hubs,4
+Gen-AI,531,27897,王昭晴,G00796247,"Hype Cycle for Digital Government Services, 2023",Prescriptive Analytics,3
+Gen-AI,531,27897,王昭晴,G00796247,"Hype Cycle for Digital Government Services, 2023",Predictive Analytics in Government,3
+Gen-AI,531,27897,王昭晴,G00796247,"Hype Cycle for Digital Government Services, 2023",Multiexperience,3
+Gen-AI,531,27897,王昭晴,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Intelligent Infrastructure,5
+Gen-AI,531,27897,王昭晴,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Intelligent Document Processing,4
+Gen-AI,531,27897,王昭晴,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Intelligent Automation,5
+Gen-AI,531,27897,王昭晴,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Generative AI,5
+Gen-AI,531,27897,王昭晴,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Digital Experience Monitoring,3
+Gen-AI,531,27897,王昭晴,G00792530,"Hype Cycle for IT Management Intelligence, 2023",DEX Tools,4
+Gen-AI,531,27897,王昭晴,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Deep Learning,3
+Gen-AI,531,27897,王昭晴,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Conversational User Interfaces,3
+Gen-AI,531,27897,王昭晴,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Autonomous Workload Optimization,3
+Gen-AI,531,27897,王昭晴,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Application Security Posture Management,3
+Gen-AI,531,27897,王昭晴,G00792530,"Hype Cycle for IT Management Intelligence, 2023",APM,3
+Gen-AI,531,27897,王昭晴,G00792530,"Hype Cycle for IT Management Intelligence, 2023",AI-Augmented Testing,5
+Gen-AI,531,27897,王昭晴,G00792530,"Hype Cycle for IT Management Intelligence, 2023",AI-Augmented Software Engineering,5
+Gen-AI,531,27897,王昭晴,G00792530,"Hype Cycle for IT Management Intelligence, 2023",AI Governance,5
+Gen-AI,531,27897,王昭晴,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Log Monitoring and Analysis,4
+Gen-AI,531,27897,王昭晴,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Synthetic Data,2
+Gen-AI,531,27897,王昭晴,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Intelligent Applications,5
+Gen-AI,531,27897,王昭晴,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Generative AI,5
+Gen-AI,531,27897,王昭晴,G00791179,"Hype Cycle for Artificial Intelligence, 2023",First-Principles AI,4
+Gen-AI,531,27897,王昭晴,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Edge AI,4
+Gen-AI,531,27897,王昭晴,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Decision Intelligence,5
+Gen-AI,531,27897,王昭晴,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Data-Centric AI,5
+Gen-AI,531,27897,王昭晴,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Data Labeling and Annotation,4
+Gen-AI,531,27897,王昭晴,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Computer Vision,3
+Gen-AI,531,27897,王昭晴,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Composite AI,5
+Gen-AI,531,27897,王昭晴,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Cloud AI Services,5
+Gen-AI,531,27897,王昭晴,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Causal AI,5
+Gen-AI,531,27897,王昭晴,G00791179,"Hype Cycle for Artificial Intelligence, 2023",AI TRiSM,5
+Gen-AI,531,27897,王昭晴,G00791179,"Hype Cycle for Artificial Intelligence, 2023",AI Maker and Teaching Kits,5
+Gen-AI,531,27897,王昭晴,G00796247,"Hype Cycle for Digital Government Services, 2023",Partner Ecosystem Management Platforms,3
+Gen-AI,531,27897,王昭晴,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Prompt Engineering,5
+Gen-AI,531,27897,王昭晴,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Machine Learning,3
+Gen-AI,531,27897,王昭晴,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Knowledge Graphs,2
+Gen-AI,531,27897,王昭晴,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Observability,3
+Gen-AI,531,27897,王昭晴,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Network AI and Automation,3
+Gen-AI,531,27897,王昭晴,G00796247,"Hype Cycle for Digital Government Services, 2023",LCAP in Government,3
+Gen-AI,531,27897,王昭晴,G00796247,"Hype Cycle for Digital Government Services, 2023",Intelligent Document Processing,3
+Gen-AI,531,27897,王昭晴,G00796247,"Hype Cycle for Digital Government Services, 2023",Innovation Ecosystems,3
+Gen-AI,531,27897,王昭晴,G00796247,"Hype Cycle for Digital Government Services, 2023",Identity Wallets,3
+Gen-AI,531,27897,王昭晴,G00796247,"Hype Cycle for Digital Government Services, 2023",Human-Centered AI,4
+Gen-AI,531,27897,王昭晴,G00796247,"Hype Cycle for Digital Government Services, 2023",Generative AI,5
+Gen-AI,531,27897,王昭晴,G00796247,"Hype Cycle for Digital Government Services, 2023",DXP,3
+Gen-AI,531,27897,王昭晴,G00796247,"Hype Cycle for Digital Government Services, 2023",Design Systems,3
+Gen-AI,531,27897,王昭晴,G00796247,"Hype Cycle for Digital Government Services, 2023",Customer Journey Analytics,4
+Gen-AI,531,27897,王昭晴,G00796247,"Hype Cycle for Digital Government Services, 2023",Computer Vision,3
+Gen-AI,531,27897,王昭晴,G00796247,"Hype Cycle for Digital Government Services, 2023",Business Ecosystem Modeling,3
+Gen-AI,531,27897,王昭晴,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Semantic Search,4
+Gen-AI,531,27897,王昭晴,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Prompt Engineering,5
+Gen-AI,531,27897,王昭晴,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Open-Source NLP Toolkits,4
+Gen-AI,531,27897,王昭晴,G00796247,"Hype Cycle for Digital Government Services, 2023",Digital Twin of a Citizen,4
+Gen-AI,531,27897,王昭晴,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Enterprise Conversational AI Platforms,3
+Gen-AI,531,27897,王昭晴,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Prompt Engineering,5
+Gen-AI,531,27897,王昭晴,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Threat Intelligence Products and Services,3
+Gen-AI,531,27897,王昭晴,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Conversational User Interfaces,3
+Gen-AI,531,27897,王昭晴,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Generative AI,5
+Gen-AI,531,27897,王昭晴,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Generative AI-Enabled Applications,5
+Gen-AI,531,27897,王昭晴,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Ontologies and Knowledge Graphs,4
+Gen-AI,531,27897,王昭晴,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Insight Engines,4
+Gen-AI,531,27897,王昭晴,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Intelligent Document Processing,3
+Gen-AI,531,27897,王昭晴,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Multistructured Analytics,3
+Gen-AI,531,27897,王昭晴,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Natural Language Generation,3
+Gen-AI,531,27897,王昭晴,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Natural Language Query,3
+Gen-AI,531,27897,王昭晴,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Natural Language Understanding,5
+Gen-AI,531,27897,王昭晴,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Neural Machine Translation,3
+Gen-AI,531,27897,王昭晴,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Process Mining,4
+Gen-AI,532,27902,周昆穎,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Deep Learning,3
+Gen-AI,532,27902,周昆穎,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Conversational User Interfaces,3
+Gen-AI,532,27902,周昆穎,G00792530,"Hype Cycle for IT Management Intelligence, 2023",DEX Tools,4
+Gen-AI,532,27902,周昆穎,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Prompt Engineering,5
+Gen-AI,532,27902,周昆穎,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Digital Experience Monitoring,3
+Gen-AI,532,27902,周昆穎,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Application Security Posture Management,3
+Gen-AI,532,27902,周昆穎,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Autonomous Workload Optimization,3
+Gen-AI,532,27902,周昆穎,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Generative AI,5
+Gen-AI,532,27902,周昆穎,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Observability,3
+Gen-AI,532,27902,周昆穎,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Intelligent Document Processing,4
+Gen-AI,532,27902,周昆穎,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Intelligent Infrastructure,5
+Gen-AI,532,27902,周昆穎,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Log Monitoring and Analysis,4
+Gen-AI,532,27902,周昆穎,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Machine Learning,3
+Gen-AI,532,27902,周昆穎,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Network AI and Automation,3
+Gen-AI,532,27902,周昆穎,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Process Mining,4
+Gen-AI,532,27902,周昆穎,G00792530,"Hype Cycle for IT Management Intelligence, 2023",APM,3
+Gen-AI,532,27902,周昆穎,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Intelligent Automation,5
+Gen-AI,532,27902,周昆穎,G00792530,"Hype Cycle for IT Management Intelligence, 2023",AI-Augmented Testing,5
+Gen-AI,532,27902,周昆穎,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Causal AI,3
+Gen-AI,532,27902,周昆穎,G00792530,"Hype Cycle for IT Management Intelligence, 2023",AI Governance,5
+Gen-AI,532,27902,周昆穎,G00792530,"Hype Cycle for IT Management Intelligence, 2023",Threat Intelligence Products and Services,3
+Gen-AI,532,27902,周昆穎,G00791179,"Hype Cycle for Artificial Intelligence, 2023",AI Maker and Teaching Kits,3
+Gen-AI,532,27902,周昆穎,G00791179,"Hype Cycle for Artificial Intelligence, 2023",AI TRiSM,3
+Gen-AI,532,27902,周昆穎,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Cloud AI Services,3
+Gen-AI,532,27902,周昆穎,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Composite AI,2
+Gen-AI,532,27902,周昆穎,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Computer Vision,3
+Gen-AI,532,27902,周昆穎,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Data Labeling and Annotation,2
+Gen-AI,532,27902,周昆穎,G00792530,"Hype Cycle for IT Management Intelligence, 2023",AI-Augmented Software Engineering,5
+Gen-AI,532,27902,周昆穎,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Data-Centric AI,3
+Gen-AI,532,27902,周昆穎,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Edge AI,3
+Gen-AI,532,27902,周昆穎,G00791179,"Hype Cycle for Artificial Intelligence, 2023",First-Principles AI,2
+Gen-AI,532,27902,周昆穎,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Generative AI,5
+Gen-AI,532,27902,周昆穎,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Intelligent Applications,3
+Gen-AI,532,27902,周昆穎,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Knowledge Graphs,2
+Gen-AI,532,27902,周昆穎,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Prompt Engineering,5
+Gen-AI,532,27902,周昆穎,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Synthetic Data,4
+Gen-AI,532,27902,周昆穎,G00791179,"Hype Cycle for Artificial Intelligence, 2023",Decision Intelligence,2
+Gen-AI,532,27902,周昆穎,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Conversational User Interfaces,3
+Gen-AI,532,27902,周昆穎,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Generative AI,5
+Gen-AI,532,27902,周昆穎,G00795274,"Hype Cycle for Generative AI, 2023",Open-Source LLMs,4
+Gen-AI,532,27902,周昆穎,G00796247,"Hype Cycle for Digital Government Services, 2023",Innovation Ecosystems,3
+Gen-AI,532,27902,周昆穎,G00796247,"Hype Cycle for Digital Government Services, 2023",Intelligent Document Processing,3
+Gen-AI,532,27902,周昆穎,G00796247,"Hype Cycle for Digital Government Services, 2023",LCAP in Government,3
+Gen-AI,532,27902,周昆穎,G00796247,"Hype Cycle for Digital Government Services, 2023",Multiexperience,3
+Gen-AI,532,27902,周昆穎,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Enterprise Conversational AI Platforms,3
+Gen-AI,532,27902,周昆穎,G00796247,"Hype Cycle for Digital Government Services, 2023",Predictive Analytics in Government,3
+Gen-AI,532,27902,周昆穎,G00796247,"Hype Cycle for Digital Government Services, 2023",Prescriptive Analytics,3
+Gen-AI,532,27902,周昆穎,G00796247,"Hype Cycle for Digital Government Services, 2023",Identity Wallets,3
+Gen-AI,532,27902,周昆穎,G00795274,"Hype Cycle for Generative AI, 2023",AI TRiSM,3
+Gen-AI,532,27902,周昆穎,G00795274,"Hype Cycle for Generative AI, 2023",Generative AI-Enabled Applications,5
+Gen-AI,532,27902,周昆穎,G00795274,"Hype Cycle for Generative AI, 2023",Large Language Models,5
+Gen-AI,532,27902,周昆穎,G00795274,"Hype Cycle for Generative AI, 2023",Model Hubs,5
+Gen-AI,532,27902,周昆穎,G00795274,"Hype Cycle for Generative AI, 2023",Prompt Engineering,5
+Gen-AI,532,27902,周昆穎,G00795274,"Hype Cycle for Generative AI, 2023",Retrieval Augmented Generation,5
+Gen-AI,532,27902,周昆穎,G00795274,"Hype Cycle for Generative AI, 2023",Self-Supervised Learning,4
+Gen-AI,532,27902,周昆穎,G00795274,"Hype Cycle for Generative AI, 2023",Synthetic Data,3
+Gen-AI,532,27902,周昆穎,G00795274,"Hype Cycle for Generative AI, 2023",AI-Augmented Software Engineering,2
+Gen-AI,532,27902,周昆穎,G00796247,"Hype Cycle for Digital Government Services, 2023",Human-Centered AI,4
+Gen-AI,532,27902,周昆穎,G00796247,"Hype Cycle for Digital Government Services, 2023",Partner Ecosystem Management Platforms,3
+Gen-AI,532,27902,周昆穎,G00796247,"Hype Cycle for Digital Government Services, 2023",DXP,3
+Gen-AI,532,27902,周昆穎,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Generative AI-Enabled Applications,5
+Gen-AI,532,27902,周昆穎,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Insight Engines,4
+Gen-AI,532,27902,周昆穎,G00796247,"Hype Cycle for Digital Government Services, 2023",Generative AI,5
+Gen-AI,532,27902,周昆穎,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Multistructured Analytics,3
+Gen-AI,532,27902,周昆穎,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Natural Language Generation,3
+Gen-AI,532,27902,周昆穎,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Natural Language Query,3
+Gen-AI,532,27902,周昆穎,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Natural Language Understanding,5
+Gen-AI,532,27902,周昆穎,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Neural Machine Translation,3
+Gen-AI,532,27902,周昆穎,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Intelligent Document Processing,3
+Gen-AI,532,27902,周昆穎,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Open-Source NLP Toolkits,4
+Gen-AI,532,27902,周昆穎,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Prompt Engineering,5
+Gen-AI,532,27902,周昆穎,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Semantic Search,4
+Gen-AI,532,27902,周昆穎,G00796247,"Hype Cycle for Digital Government Services, 2023",Business Ecosystem Modeling,3
+Gen-AI,532,27902,周昆穎,G00796247,"Hype Cycle for Digital Government Services, 2023",Computer Vision,3
+Gen-AI,532,27902,周昆穎,G00796247,"Hype Cycle for Digital Government Services, 2023",Customer Journey Analytics,4
+Gen-AI,532,27902,周昆穎,G00796247,"Hype Cycle for Digital Government Services, 2023",Design Systems,3
+Gen-AI,532,27902,周昆穎,G00796247,"Hype Cycle for Digital Government Services, 2023",Digital Twin of a Citizen,4
+Gen-AI,532,27902,周昆穎,G00790908,"Hype Cycle for Natural Language Technologies, 2023",Ontologies and Knowledge Graphs,4
+EAM,530,26046,林志育,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Vulnerability Assessment,3
+EAM,530,26046,林志育,G00789203,"Hype Cycle for Managing Operational Technology, 2023",OT Security,3
+EAM,530,26046,林志育,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Machine Learning,3
+EAM,530,26046,林志育,G00789203,"Hype Cycle for Managing Operational Technology, 2023",IT/OT Integration,3
+EAM,530,26046,林志育,G00789203,"Hype Cycle for Managing Operational Technology, 2023",IoT-Enabled Equipment as a Service,3
+EAM,530,26046,林志育,G00789203,"Hype Cycle for Managing Operational Technology, 2023",IoT Services,3
+EAM,530,26046,林志育,G00789203,"Hype Cycle for Managing Operational Technology, 2023",IoT Platform,3
+EAM,530,26046,林志育,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Event Stream Processing,3
+EAM,530,26046,林志育,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Edge Asset Life Cycle Management,3
+EAM,530,26046,林志育,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Digital Twin,3
+EAM,530,26046,林志育,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Cyber-Physical Systems,3
+EAM,530,26046,林志育,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Building Information Modeling,3
+EAM,530,26046,林志育,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Asset Performance Management,4
+EAM,530,26046,林志育,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Industrial Operational Intelligence,3
+ESG,533,27750,周羿廷,G00789203,"Hype Cycle for Managing Operational Technology, 2023",OT Security,2
+ESG,533,27750,周羿廷,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Asset Performance Management,2
+ESG,533,27750,周羿廷,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Building Information Modeling,2
+ESG,533,27750,周羿廷,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Cyber-Physical Systems,2
+ESG,533,27750,周羿廷,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Digital Twin,3
+ESG,533,27750,周羿廷,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Edge Asset Life Cycle Management,2
+ESG,533,27750,周羿廷,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Event Stream Processing,2
+ESG,533,27750,周羿廷,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Industrial Operational Intelligence,2
+ESG,533,27750,周羿廷,G00789203,"Hype Cycle for Managing Operational Technology, 2023",IoT Platform,3
+ESG,533,27750,周羿廷,G00789203,"Hype Cycle for Managing Operational Technology, 2023",IoT Services,3
+ESG,533,27750,周羿廷,G00789203,"Hype Cycle for Managing Operational Technology, 2023",IoT-Enabled Equipment as a Service,3
+ESG,533,27750,周羿廷,G00789203,"Hype Cycle for Managing Operational Technology, 2023",IT/OT Integration,3
+ESG,533,27750,周羿廷,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Machine Learning,3
+ESG,533,27750,周羿廷,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Vulnerability Assessment,2
+ESG,535,17008,徐國雄,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Event Stream Processing,1
+ESG,535,17008,徐國雄,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Asset Performance Management,4
+ESG,535,17008,徐國雄,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Building Information Modeling,1
+ESG,535,17008,徐國雄,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Vulnerability Assessment,4
+ESG,535,17008,徐國雄,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Machine Learning,5
+ESG,535,17008,徐國雄,G00789203,"Hype Cycle for Managing Operational Technology, 2023",IT/OT Integration,4
+ESG,535,17008,徐國雄,G00789203,"Hype Cycle for Managing Operational Technology, 2023",IoT-Enabled Equipment as a Service,4
+ESG,535,17008,徐國雄,G00789203,"Hype Cycle for Managing Operational Technology, 2023",IoT Services,4
+ESG,535,17008,徐國雄,G00789203,"Hype Cycle for Managing Operational Technology, 2023",IoT Platform,4
+ESG,535,17008,徐國雄,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Industrial Operational Intelligence,4
+ESG,535,17008,徐國雄,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Edge Asset Life Cycle Management,4
+ESG,535,17008,徐國雄,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Digital Twin,4
+ESG,535,17008,徐國雄,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Cyber-Physical Systems,4
+ESG,535,17008,徐國雄,G00789203,"Hype Cycle for Managing Operational Technology, 2023",OT Security,4
+EAM,533,27750,周羿廷,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Asset Performance Management,2
+EAM,535,17008,徐國雄,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Asset Performance Management,4
+EAM,533,27750,周羿廷,G00789203,"Hype Cycle for Managing Operational Technology, 2023",OT Security,2
+EAM,533,27750,周羿廷,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Building Information Modeling,2
+EAM,533,27750,周羿廷,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Cyber-Physical Systems,2
+EAM,533,27750,周羿廷,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Digital Twin,3
+EAM,533,27750,周羿廷,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Edge Asset Life Cycle Management,2
+EAM,533,27750,周羿廷,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Event Stream Processing,2
+EAM,533,27750,周羿廷,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Industrial Operational Intelligence,2
+EAM,533,27750,周羿廷,G00789203,"Hype Cycle for Managing Operational Technology, 2023",IoT Platform,3
+EAM,533,27750,周羿廷,G00789203,"Hype Cycle for Managing Operational Technology, 2023",IoT Services,3
+EAM,533,27750,周羿廷,G00789203,"Hype Cycle for Managing Operational Technology, 2023",IoT-Enabled Equipment as a Service,3
+EAM,533,27750,周羿廷,G00789203,"Hype Cycle for Managing Operational Technology, 2023",IT/OT Integration,3
+EAM,533,27750,周羿廷,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Machine Learning,3
+EAM,533,27750,周羿廷,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Vulnerability Assessment,2
+EAM,535,17008,徐國雄,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Event Stream Processing,1
+EAM,535,17008,徐國雄,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Building Information Modeling,1
+EAM,535,17008,徐國雄,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Vulnerability Assessment,4
+EAM,535,17008,徐國雄,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Machine Learning,5
+EAM,535,17008,徐國雄,G00789203,"Hype Cycle for Managing Operational Technology, 2023",IT/OT Integration,4
+EAM,535,17008,徐國雄,G00789203,"Hype Cycle for Managing Operational Technology, 2023",IoT-Enabled Equipment as a Service,4
+EAM,535,17008,徐國雄,G00789203,"Hype Cycle for Managing Operational Technology, 2023",IoT Services,4
+EAM,535,17008,徐國雄,G00789203,"Hype Cycle for Managing Operational Technology, 2023",IoT Platform,4
+EAM,535,17008,徐國雄,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Industrial Operational Intelligence,4
+EAM,535,17008,徐國雄,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Edge Asset Life Cycle Management,4
+EAM,535,17008,徐國雄,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Digital Twin,4
+EAM,535,17008,徐國雄,G00789203,"Hype Cycle for Managing Operational Technology, 2023",Cyber-Physical Systems,4
+EAM,535,17008,徐國雄,G00789203,"Hype Cycle for Managing Operational Technology, 2023",OT Security,4

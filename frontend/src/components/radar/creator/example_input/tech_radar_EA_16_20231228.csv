@@ -1,0 +1,17 @@
+radar_zone,tech_index,innovation_tech_name,radar_locate,radar_size
+H001,413,Container Management,Adopt,High
+H001,572,DevSecOps,Adopt,Transformational
+H001,671,EA Tools,Adopt,High
+H001,821,Generative AI,Adopt,Transformational
+H001,1073,Large Language Models,Adopt,Transformational
+H001,814,Full Life Cycle API Management,Trial,High
+H001,1166,Microservices,Trial,High
+H001,1395,Prompt Engineering,Trial,High
+H001,1446,Retrieval Augmented Generation,Trial,High
+H001,670,EA Governance,Assess,High
+H001,839,Generative AI-Enabled Applications,Assess,High
+H001,1059,Knowledge Graphs,Assess,High
+H001,1645,Tokenization,Assess,Transformational
+H001,70,AI Governance,Hold,High
+H001,504,Data Governance,Hold,High
+H001,634,Digital Twins of Government,Hold,High

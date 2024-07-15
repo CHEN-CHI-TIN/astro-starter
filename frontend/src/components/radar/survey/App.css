@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  height: 100vh;
+  background-color: whitesmoke;
+}
+
+/* DivButton.css */
+.div-button {
+  display: inline-block;
+  padding: 6px 12px;
+  background-color: #007bff;
+  color: white;
+  text-align: center;
+  cursor: pointer;
+  border-radius: 5px;
+  user-select: none; /* 防止選取文本 */
+  transition: background-color 0.3s;
+  font-size: 24px;
+}
+
+.div-button:focus {
+  outline: none;
+}
+
+.div-button:hover {
+  background-color: #0056b3;
+}
+
+.score-text {
+  padding-top: 12px;
+  font-size: 2em;
+}
+
+.input[type="radio"]:enabled {
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+/* 修改禁用状态的单选按钮的颜色 */
+.input[type="radio"]:disabled {
+  /* 添加您想要的颜色属性 */
+  background-color: #812626; /* 背景颜色 */
+  color: #999; /* 文本颜色 */
+  border-color: #5b2424; /* 边框颜色 */
+  /* 还可以修改其他样式，根据您的需要 */
+}

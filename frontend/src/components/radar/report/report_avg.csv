@@ -1,0 +1,246 @@
+﻿Quadrant,innovation_tech_name,Person Number,AVG_feasibility_level
+Data Governance,AI Governance,4,4.75
+Data Governance,Data Governance,4,4.75
+Data Governance,Data Sharing,4,4.75
+Data Governance,Decision Intelligence,4,4.75
+Data Governance,Generative AI,4,4.75
+Data Governance,AI for Sustainability,4,4.50
+Data Governance,Augmented Data Catalog/Metadata Management,4,4.50
+Data Governance,Augmented Data Management,4,4.50
+Data Governance,Augmented Data Quality,4,4.50
+Data Governance,D&A Stewardship,4,4.50
+Data Governance,Data Asset Management,4,4.50
+Data Governance,Data Classification,4,4.50
+Data Governance,Data Literacy,4,4.50
+Data Governance,Data Observability,4,4.50
+Data Governance,Data and Analytics Governance,4,4.50
+Data Governance,Hyperautomation,4,4.50
+Data Governance,Machine Learning,4,4.50
+Data Governance,Master Data Management,4,4.50
+Data Governance,Multidomain MDM Solutions,4,4.50
+Data Governance,Operational Intelligence,4,4.50
+Data Governance,Customer MDM,4,4.25
+Data Governance,DataOps,4,4.25
+Data Governance,Edge Data Management,4,4.25
+Data Governance,Product Data MDM,4,4.25
+Data Governance,Data Breach Response,4,4.00
+Data Governance,Data Engineering,4,4.00
+Data Governance,Data Marketplaces and Exchanges,4,4.00
+Data Governance,Data Product,4,4.00
+Data Governance,Data Storytelling,4,4.00
+Data Governance,Information Architecture,4,4.00
+Data Governance,Data Hub Strategy,4,3.92
+Data Governance,Cloud MDM,4,3.75
+Data Governance,Event Stream Processing,4,3.75
+Data Governance,Knowledge Graphs,4,3.75
+Data Governance,Lakehouse,4,3.75
+Data Governance,Machine Identity Management,4,3.75
+Data Governance,Multistructured Analytics,4,3.75
+Data Governance,Privacy Impact Assessments,4,3.75
+Data Governance,Real-Time Data Management,4,3.75
+Data Governance,Homegrown AI Chips,4,3.50
+Data Governance,Privacy Management Tools,4,3.50
+Data Governance,Digital Ethics,4,3.42
+Data Governance,In-DBMS Analytics,4,3.25
+Data Governance,Security Service Edge,4,3.25
+Data Governance,Synthetic Data,4,3.25
+Data Governance,Citizen Data Science,4,3.00
+Data Governance,Digital Communications Governance,4,3.00
+Data Governance,Graph DBMS,4,2.75
+Data Governance,Postquantum Cryptography,4,2.25
+EAM,EA Tools,5,4.80
+EAM,EA Governance,5,4.60
+EAM,Decision Intelligence,5,4.40
+EAM,Enterprise Conversational AI Platforms,5,4.40
+EAM,Business Capability Modeling,5,4.20
+EAM,DataOps,5,4.20
+EAM,DevSecOps,5,4.20
+EAM,GitOps,5,4.00
+EAM,Knowledge Graphs,5,4.00
+EAM,Platform Engineering,5,4.00
+EAM,Roadmapping,5,4.00
+EAM,Business Ecosystem Modeling,5,3.80
+EAM,Composable Applications,5,3.80
+EAM,Continuous Delivery,5,3.80
+EAM,IT/OT Integration,5,3.80
+EAM,Information Architecture,5,3.80
+EAM,Innovation Management,5,3.80
+EAM,Journey Maps,5,3.80
+EAM,Machine Learning,5,3.80
+EAM,Product-Centric Delivery Model,5,3.80
+EAM,Value Stream Mapping,5,3.80
+EAM,Digital Twin,5,3.70
+EAM,Cloud Sustainability,5,3.60
+EAM,Digital Design,5,3.60
+EAM,IoT Platform,5,3.60
+EAM,NetDevOps,5,3.60
+EAM,Short-Term Demand Sensing,5,3.60
+EAM,Trendspotting,5,3.60
+EAM,IoT Services,5,3.40
+EAM,IoT-Enabled Equipment as a Service,5,3.40
+EAM,OT Security,5,3.40
+EAM,Vulnerability Assessment,5,3.40
+EAM,Asset Performance Management,5,3.20
+EAM,Optimize Planning,5,3.20
+EAM,Total Experience,5,3.20
+EAM,Cloud Center of Excellence,5,3.00
+EAM,Cyber-Physical Systems,5,3.00
+EAM,Edge Asset Life Cycle Management,5,3.00
+EAM,Industrial Operational Intelligence,5,3.00
+EAM,Operational Experience,5,3.00
+EAM,Supply Chain Control Tower,5,3.00
+EAM,Cloud Resilience,5,2.80
+EAM,Infrastructure Automation,5,2.80
+EAM,Infrastructure Orchestration,5,2.80
+EAM,Building Information Modeling,5,2.60
+EAM,Container-Native Storage,5,2.60
+EAM,Hybrid Cloud Storage,5,2.60
+EAM,Integrated Supply Chain Planning,5,2.60
+EAM,Storage as a Service,5,2.60
+EAM,Digital Communications Governance,5,2.40
+EAM,Distributed File Systems,5,2.40
+EAM,Event Stream Processing,5,2.40
+EAM,FinOps,5,2.40
+EAM,Hyperconvergence,5,2.40
+EAM,Network Design,5,2.40
+EAM,Object Storage,5,2.40
+EAM,Software-Defined Storage,5,2.40
+EAM,Immutable Data Vault,5,2.20
+ESG,Generative AI,5,5.00
+ESG,Data Governance,5,4.80
+ESG,"Environmental, Social and Governance",5,4.60
+ESG,Carbon Accounting and Management Software,5,4.40
+ESG,Cloud Computing,5,4.40
+ESG,Edge AI,5,4.40
+ESG,Edge Computing,5,4.40
+ESG,Machine Learning,5,4.40
+ESG,IoT,5,4.20
+ESG,Natural Language Technologies in Smart Cities,5,4.20
+ESG,AI for Sustainability,5,4.00
+ESG,Digital Twin,5,4.00
+ESG,Digital Twins for Sustainability,5,4.00
+ESG,IT/OT Integration,5,4.00
+ESG,IoT Platform,5,4.00
+ESG,IoT Services,5,4.00
+ESG,IoT for Sustainability,5,4.00
+ESG,IoT in Smart Cities,5,3.80
+ESG,OT Security,5,3.80
+ESG,Sustainability in ERP,5,3.80
+ESG,Edge Asset Life Cycle Management,5,3.60
+ESG,IoT-Enabled Equipment as a Service,5,3.60
+ESG,Privacy in China,5,3.60
+ESG,Vulnerability Assessment,5,3.60
+ESG,Asset Performance Management,5,3.40
+ESG,Digital Ethics,5,3.20
+ESG,Cloud Sustainability,5,3.10
+ESG,Cyber-Physical Systems,5,3.00
+ESG,Data Exchange,5,3.00
+ESG,EVs and Charging Infrastructure in China,5,3.00
+ESG,Environment Monitoring and Management,5,3.00
+ESG,5G,5,2.80
+ESG,Climate Risk Analytics,5,2.80
+ESG,Supply Chain Cybersecurity,5,2.80
+ESG,City Operations Center,5,2.60
+ESG,Digital Product Passport,5,2.60
+ESG,Industrial Operational Intelligence,5,2.60
+ESG,Smart City Regional Governance,5,2.60
+ESG,Energy Efficiency,5,2.40
+ESG,Smart City Framework,5,2.40
+ESG,Smart City as a Service,5,2.40
+ESG,Building Information Modeling,5,2.33
+ESG,Digital Twin of a Citizen,5,2.20
+ESG,Distributed Generation,5,2.20
+ESG,Event Stream Processing,5,2.20
+ESG,Geospatial Platform,5,2.20
+ESG,Multicloud,5,2.20
+ESG,Programmable Infrastructure,5,2.20
+ESG,Composable Infrastructure,5,2.00
+ESG,Digital Twins of Government,5,2.00
+ESG,Hyperconvergence,5,2.00
+ESG,Large-Scale Lithium-Ion Batteries,5,2.00
+ESG,OS Containers,5,2.00
+ESG,SD-WAN,5,2.00
+ESG,Serverless Infrastructure,5,2.00
+ESG,Site Reliability Engineering,5,2.00
+ESG,Intelligent Street Pole,5,1.90
+ESG,5G for China,5,1.80
+ESG,BMaaS,5,1.80
+ESG,Balancing Opex and Capex,5,1.80
+ESG,Banking Sustainability Tools,5,1.80
+ESG,Computer Vision for Smart Cities,5,1.80
+ESG,Consumption-Based Model,5,1.80
+ESG,Distributed Integrated Platforms,5,1.80
+ESG,Government Cloud in China,5,1.80
+ESG,Green and Sustainable Finance,5,1.80
+ESG,Intelligent Infrastructure,5,1.80
+ESG,Interjurisdictional Government Services,5,1.80
+ESG,Urban Energy Management Platform,5,1.80
+ESG,Last-Mile Delivery Solutions,5,1.60
+ESG,Biodiversity Accounting,5,1.40
+ESG,Water Management Analytics,5,1.40
+ESG,Food Safety and Traceability,5,1.20
+ESG,Urban Waste Management,5,1.20
+Gen-AI,Natural Language Understanding,4,5.00
+Gen-AI,Generative AI,4,4.94
+Gen-AI,Generative AI-Enabled Applications,4,4.88
+Gen-AI,Prompt Engineering,4,4.81
+Gen-AI,AI Governance,4,4.75
+Gen-AI,AI-Augmented Testing,4,4.75
+Gen-AI,Intelligent Automation,4,4.75
+Gen-AI,Intelligent Infrastructure,4,4.75
+Gen-AI,Large Language Models,4,4.75
+Gen-AI,Retrieval Augmented Generation,4,4.75
+Gen-AI,Model Hubs,4,4.50
+Gen-AI,Open-Source LLMs,4,4.50
+Gen-AI,AI TRiSM,4,4.38
+Gen-AI,AI-Augmented Software Engineering,4,4.38
+Gen-AI,Causal AI,4,4.25
+Gen-AI,Data-Centric AI,4,4.25
+Gen-AI,Intelligent Applications,4,4.25
+Gen-AI,AI Maker and Teaching Kits,4,4.00
+Gen-AI,Cloud AI Services,4,4.00
+Gen-AI,Customer Journey Analytics,4,4.00
+Gen-AI,DEX Tools,4,4.00
+Gen-AI,Decision Intelligence,4,4.00
+Gen-AI,Human-Centered AI,4,4.00
+Gen-AI,Insight Engines,4,4.00
+Gen-AI,Log Monitoring and Analysis,4,4.00
+Gen-AI,Ontologies and Knowledge Graphs,4,4.00
+Gen-AI,Open-Source NLP Toolkits,4,4.00
+Gen-AI,Process Mining,4,4.00
+Gen-AI,Self-Supervised Learning,4,4.00
+Gen-AI,Semantic Search,4,4.00
+Gen-AI,Data Labeling and Annotation,4,3.75
+Gen-AI,Digital Twin of a Citizen,4,3.75
+Gen-AI,Edge AI,4,3.75
+Gen-AI,Composite AI,4,3.50
+Gen-AI,Computer Vision,4,3.50
+Gen-AI,Knowledge Graphs,4,3.50
+Gen-AI,Synthetic Data,4,3.38
+Gen-AI,Intelligent Document Processing,4,3.33
+Gen-AI,APM,4,3.25
+Gen-AI,Application Security Posture Management,4,3.25
+Gen-AI,Autonomous Workload Optimization,4,3.25
+Gen-AI,Business Ecosystem Modeling,4,3.25
+Gen-AI,Deep Learning,4,3.25
+Gen-AI,Digital Experience Monitoring,4,3.25
+Gen-AI,First-Principles AI,4,3.25
+Gen-AI,LCAP in Government,4,3.25
+Gen-AI,Machine Learning,4,3.25
+Gen-AI,Network AI and Automation,4,3.25
+Gen-AI,Observability,4,3.25
+Gen-AI,Threat Intelligence Products and Services,4,3.25
+Gen-AI,Conversational User Interfaces,4,3.13
+Gen-AI,DXP,4,3.00
+Gen-AI,Design Systems,4,3.00
+Gen-AI,Enterprise Conversational AI Platforms,4,3.00
+Gen-AI,Identity Wallets,4,3.00
+Gen-AI,Innovation Ecosystems,4,3.00
+Gen-AI,Multiexperience,4,3.00
+Gen-AI,Multistructured Analytics,4,3.00
+Gen-AI,Natural Language Generation,4,3.00
+Gen-AI,Natural Language Query,4,3.00
+Gen-AI,Neural Machine Translation,4,3.00
+Gen-AI,Partner Ecosystem Management Platforms,4,3.00
+Gen-AI,Predictive Analytics in Government,4,3.00
+Gen-AI,Prescriptive Analytics,4,3.00

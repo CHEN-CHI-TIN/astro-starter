@@ -1,0 +1,260 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: Arial, sans-serif; /* 指定您想要的字体 */
+}
+
+.writing-vertical {
+  writing-mode: vertical-rl;
+  text-orientation: upright;
+}
+
+.radar-cover-full {
+  background-size: auto 100%; /* Width will be auto and height will be 100% of the parent element */
+  background-repeat: no-repeat; /* Optional: this will prevent the image from repeating */
+  background-position: left; /* Optional: this will center the image in the element */
+  background-image: url("/background-radar-2.png");
+  /* 向右移動43px, 向下20px */
+  transform: translate(43px, 0px);
+}
+
+.radar-cover-single {
+  background-size: auto 100%; /* Width will be auto and height will be 100% of the parent element */
+  background-repeat: no-repeat; /* Optional: this will prevent the image from repeating */
+  background-position: left; /* Optional: this will center the image in the element */
+  background-image: url("/background-radar-single-2.png");
+  /* 向右移動43px, 向下20px */
+  transform: translate(43px, 0px);
+}
+
+/* .tip-cover {
+  background-image: url("../public/tip-01.png");
+} */
+
+.grid-rename-parent {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+}
+
+.grid-rename-unit-0 {
+  grid-area: 1 / 1 / 2 / 2;
+}
+
+.grid-rename-unit-1 {
+  grid-area: 2 / 1 / 3 / 2;
+}
+
+.grid-rename-unit-2 {
+  grid-area: 1 / 2 / 2 / 3;
+}
+
+.grid-rename-unit-3 {
+  grid-area: 2 / 2 / 3 / 2;
+}
+
+.grid-container {
+  /* padding-left: 70px; */
+  /* padding-right: 70px; */
+  width: 100%;
+  height: 100%;
+  /* 向下移100px */
+  /* transform: translate(0px, 60px); */
+  display: grid;
+  grid-template-columns: 0.4fr 0.2fr 1.4fr 3fr 1.4fr 0.2fr 0.4fr;
+  grid-template-rows: 0fr 2fr 1fr 1fr;
+  grid-auto-columns: 1fr;
+  gap: 0px 0px;
+  grid-auto-flow: row;
+  grid-template-areas:
+    "grid-title-01 grid-line-01 grid-list-01 grid-title-main grid-list-03 grid-line-03 grid-title-03"
+    "grid-title-01 grid-line-01 grid-list-01 grid-radar grid-list-03 grid-line-03 grid-title-03"
+    "grid-title-02 grid-line-02 grid-list-02 grid-radar grid-list-04 grid-line-04 grid-title-04"
+    "grid-title-02 grid-line-02 grid-list-02 grid-radar grid-list-04 grid-line-04 grid-title-04";
+  color: white;
+}
+
+.container-single {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 100%;
+  flex-grow: 1;
+  color: white;
+}
+
+.title-left {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  font-size: 30px;
+  font-weight: bold;
+  padding-top: 40px;
+}
+
+.title-right {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  font-size: 30px;
+  font-weight: bold;
+  padding-top: 40px;
+}
+
+.grid-title-01 {
+  grid-area: grid-title-01;
+}
+
+.grid-title-02 {
+  grid-area: grid-title-02;
+}
+
+.grid-title-03 {
+  grid-area: grid-title-03;
+}
+
+.grid-title-04 {
+  grid-area: grid-title-04;
+}
+
+.grid-line {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.grid-line-01 {
+  grid-area: grid-line-01;
+}
+
+.grid-line-02 {
+  grid-area: grid-line-02;
+}
+
+.grid-line-03 {
+  grid-area: grid-line-03;
+}
+
+.grid-line-04 {
+  grid-area: grid-line-04;
+}
+
+.grid-list-01 {
+  grid-area: grid-list-01;
+  margin: 24px -40px 24px 0;
+}
+
+.grid-list-02 {
+  grid-area: grid-list-02;
+  margin: 24px -40px 24px 0;
+}
+
+.grid-list-03 {
+  grid-area: grid-list-03;
+  margin: 24px 0 24px 0;
+  margin: 24px -20px 24px 24px;
+}
+
+.grid-list-04 {
+  grid-area: grid-list-04;
+  margin: 24px -20px 24px 24px;
+}
+
+.grid-title-main {
+  grid-area: grid-title-main;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 32px;
+  font-weight: bold;
+  /* background-color: green; */
+  gap: 12px;
+}
+
+.grid-radar {
+  grid-area: grid-radar;
+  background-size: auto 100%; /* Width will be auto and height will be 100% of the parent element */
+  background-repeat: no-repeat; /* Optional: this will prevent the image from repeating */
+  background-position: left; /* Optional: this will center the image in the element */
+  /* background-image: url("../public/background-radar-origin.png"); */
+  /* background-color: black; */
+  align-self: center;
+}
+
+.radar-single {
+  background-size: auto 100%; /* Width will be auto and height will be 100% of the parent element */
+  background-repeat: no-repeat; /* Optional: this will prevent the image from repeating */
+  background-position: left; /* Optional: this will center the image in the element */
+  /* background-image: url("../public/background-radar-origin.png"); */
+  /* background-color: black; */
+  align-self: center;
+}
+
+/* 以下為 list */
+.list-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  /* overflow-y: scroll; */
+  /* overflow-x: hidden; */
+}
+
+.item-name {
+  font-size: 18px;
+}
+
+/* 針對所有的滾動條 */
+::-webkit-scrollbar {
+  width: 10px; /* For vertical scrollbars */
+  height: 10px; /* For horizontal scrollbars */
+}
+
+/* 滾動條的軌道 */
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* 滾動條本身 */
+::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.1);
+  border-radius: 10px; /* 如果你想要滚动条的边角是圆的 */
+}
+
+/* 滾動條在被拖動時的效果 */
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.ring-title {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+  /* 斜體 */
+  font-style: italic;
+}
+
+.ring-title-sign {
+  width: 12px;
+  height: 12px;
+  /* border-radius: 50%; */
+  margin-right: 8px;
+}
+
+/* 当鼠标悬停在元素上时，显示可拖动的光标 */
+.element:hover {
+  cursor: grab;
+}
+
+/* 当按下元素时，显示正在拖动的光标 */
+.element:active {
+  cursor: grabbing;
+}
